@@ -1,4 +1,4 @@
-# 如何通过代理使用npm install 安装
+# 如何通过代理使用npm install 安装 (2017-10-18)
 ## 方法一
 npm获取配置有6种方式，优先级由高到底。
 
@@ -28,6 +28,8 @@ $ npm config set https-proxy http://username:pawword@server:port
 ```
 $ npm config set registry "http://registry.npmjs.org/"
 ```
+注：由于我的密码含特殊字符，故目前为止还未成功，研究中...
+
 ## 方法二
 把服务器上的npm，设置代理到可以访问外网的机子上（代理工具：ccproxy、fiddler等），即可解决问题！
 ```

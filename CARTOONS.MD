@@ -13,11 +13,13 @@ We’ve all seen the innovation distribution curve (above). But those banging th
 
 ![innovation-distribution-curve_chasm-version](./pics/innovation-distribution-curve_chasm-version_650px.png)  
 
-## Leadership vs management 2017/10/31 [link](https://www.businessillustrator.com/leadership-vs-management/)
+## Leadership vs management 领导者 vs 管理者 2017/10/31 [link](https://www.businessillustrator.com/leadership-vs-management/)
 
 ![efficiency-vs-effectiveness](./pics/efficiency-vs-effectiveness-650px.png)
 
 What exactly is the difference between leadership and management? One way to differentiate the two concepts is the kind of questions managers and leaders are expected to ask. A managerial mindset is often associated with maintaining processes, a leadership mindset is more about asking the right questions.
+
+什么能够确切的分辨出领导者与管理者呢？一种简单的方法是看看他们分别期望问出什么样的问题。管理导向的人经常问及如何保持流程运转的问题，而领导导向的人更多的是在问正确的问题！
 
 > Virpi @voinonen
 

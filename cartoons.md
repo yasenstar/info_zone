@@ -5,8 +5,11 @@ They're not only interesting themselves, but also, more important, telling deepe
 
 ## The realistic innovation distribution curve – cartoon 2017/10/31 [Link](https://www.businessillustrator.com/innovation-distribution-curve-cartoon/)
 
+![innovation-distribution-curve](./pics/innovation-distribution-curve-650px.pnd)  
+
 We’ve all seen the innovation distribution curve (above). But those banging their heads on involved in organisational change efforts might sometimes feel that the word “chasm” doesn’t quite describe the challenge you are facing…
 
+![innovation-distribution-curve_chasm-version](./pics/innovation-distribution-curve_chasm-version_650px.png)  
 
 ----
 

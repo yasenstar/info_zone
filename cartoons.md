@@ -1,9 +1,9 @@
-# CARTOONS Collection
+# CARTOONS Collection 发人深思的卡通漫画
 
 These caroons are from [business illustrator](https://www.businessillustrator.com)
 They're not only interesting themselves, but also, more important, telling deeper principles and touching the backend of the truth!
 
-## The realistic innovation distribution curve – cartoon 2017/10/31 [Link](https://www.businessillustrator.com/innovation-distribution-curve-cartoon/)
+## The realistic innovation distribution curve 现实中的创新氛围分配曲线 2017/10/31 [Link](https://www.businessillustrator.com/innovation-distribution-curve-cartoon/)
 
 ![innovation-distribution-curve](./pics/innovation-distribution-curve-650px.png)  
 
@@ -21,7 +21,7 @@ I came across a blog post on the metaphor of zoos and jungles by management cons
 
 It’s scary for zoo folk to suddenly unlearn former certainties and ways of doing things.
 
-#### Metaphors + storytelling = sticky messaging
+** Metaphors + storytelling = sticky messaging **
 
 Sonja is a big fan of metaphors in organisational change context – this is just one of them. She told me she is building a bank of metaphors and will put on her website at some point – definitely something I would find useful as I spend quite a lot of time finding appropriate visual metaphors when turning strategies/reports/concepts into visual stories.
 

@@ -1,17 +1,15 @@
 # CARTOONS Collection
-----
+
 These caroons are from [business illustrator](https://www.businessillustrator.com)
 They're not only interesting themselves, but also, more important, telling deeper principles and touching the backend of the truth!
 
 ## The realistic innovation distribution curve – cartoon 2017/10/31 [Link](https://www.businessillustrator.com/innovation-distribution-curve-cartoon/)
 
-![innovation-distribution-curve](./pics/innovation-distribution-curve-650px.pnd)  
+![innovation-distribution-curve](./pics/innovation-distribution-curve-650px.png)  
 
 We’ve all seen the innovation distribution curve (above). But those banging their heads on involved in organisational change efforts might sometimes feel that the word “chasm” doesn’t quite describe the challenge you are facing…
 
 ![innovation-distribution-curve_chasm-version](./pics/innovation-distribution-curve_chasm-version_650px.png)  
-
-----
 
 ## It’s hard to survive in the jungle when you were trained in a zoo 2017/10/31 [Link](https://www.businessillustrator.com/its-hard-to-survive-in-the-jungle-when-you-were-trained-in-a-zoo-cartoon/)
 

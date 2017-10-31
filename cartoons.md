@@ -1,5 +1,7 @@
 # CARTOONS Collection 发人深思的卡通漫画
 
+[TOC]
+
 These caroons are from [business illustrator](https://www.businessillustrator.com)
 They're not only interesting themselves, but also, more important, telling deeper principles and touching the backend of the truth!
 

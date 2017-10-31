@@ -13,6 +13,14 @@ We’ve all seen the innovation distribution curve (above). But those banging th
 
 ![innovation-distribution-curve_chasm-version](./pics/innovation-distribution-curve_chasm-version_650px.png)  
 
+## Leadership vs management 2017/10/31 [link](https://www.businessillustrator.com/leadership-vs-management/)
+
+![efficiency-vs-effectiveness](./pics/efficiency-vs-effectiveness-650px.png)
+
+What exactly is the difference between leadership and management? One way to differentiate the two concepts is the kind of questions managers and leaders are expected to ask. A managerial mindset is often associated with maintaining processes, a leadership mindset is more about asking the right questions.
+
+> Virpi @voinonen
+
 ## It’s hard to survive in the jungle when you were trained in a zoo 2017/10/31 [Link](https://www.businessillustrator.com/its-hard-to-survive-in-the-jungle-when-you-were-trained-in-a-zoo-cartoon/)
 
 ![training-survive-in-the-jungle-zoo_businessillustrator](./pics/training-survive-in-the-jungle-zoo_businessillustrator-650px.gif)  
@@ -29,4 +37,4 @@ Sonja is a big fan of metaphors in organisational change context – this is jus
 
 Metaphors together with storytelling help ideas stick more effectively than diagrams or talking heads.
 
-Virpi @voinonen
+> Virpi @voinonen

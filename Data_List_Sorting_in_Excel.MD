@@ -1,3 +1,4 @@
+
 # How to Manage the Data List Sorting in Microsoft Product (Excel, SQL, etc.)
 
 Microsoft product family relating to spreadsheet treatment, e.g. Excel, SQL DB, (possible including Access), are dealing with data list, so it's important to understand how the sorting rules applying to the data list.

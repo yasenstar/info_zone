@@ -22,6 +22,14 @@ Book Reading as:
   4. Another portion of the data warehouse is built, and so forth.
   The feedback loop continues throughout the entire life of the data warehouse.
 
+## Beginning with Operational Data
+
+Some typical data problem showing the lack of integration in existing systems environments:
+  * Same Data, Different Name
+  * Different Data, Same Name
+  * Data Found Here, Nowhere Else
+  * Different Keys, Same Data
+
 
 
 # 04 Granularity in the Data Warehouse

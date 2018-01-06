@@ -7,7 +7,11 @@ Book Reading as:
 
 [01 Evolution of Decision Support Systems](#01-evolution-of-decision-support-systems)
 
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+
 [02 The Data Warehouse Environment](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#02-the-data-warehouse-environment)
+
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
 
 [03 The Data Warehouse and Design](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#03-the-data-warehouse-and-design)
 

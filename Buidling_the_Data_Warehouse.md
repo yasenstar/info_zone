@@ -7,11 +7,7 @@ Book Reading as:
 
 [01 Evolution of Decision Support Systems](#01-evolution-of-decision-support-systems)
 
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
-
 [02 The Data Warehouse Environment](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#02-the-data-warehouse-environment)
-
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
 
 [03 The Data Warehouse and Design](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#03-the-data-warehouse-and-design)
 
@@ -53,9 +49,15 @@ _[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_D
 
 # 01 Evolution of Decision Support Systems
 
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+
 # 02 The Data Warehouse Environment
 
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+
 # 03 The Data Warehouse and Design
+
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
 
 * There are 2 major components to building a data warehouse:
   1. the design of the interface from operational systems
@@ -82,34 +84,69 @@ Some typical data problem showing the lack of integration in existing systems en
 
 # 04 Granularity in the Data Warehouse
 
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+
 # 05 The Data Warehouse and Technology
+
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
 
 # 06 The Distributed Data Warehouse
 
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+
 # 07 Executive Information Systems and the Data Warehouse
+
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
 
 # 08 External Data and the Data Warehouse
 
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+
 # 09 Migration to the Architected Environment
+
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
 
 # 10 The Data Warehouse and the Web
 
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+
 # 11 Unstructured Data and the Data Warehouse
+
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
 
 # 12 The Really Large Data Warehouse
 
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+
 # 13 The Relational and the Multidimentional Model as a Basis for Database Design
+
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
 
 # 14 Data Warehouse Advanced Topics
 
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+
 # 15 Cost-Justification and Return on Investment for a Data Warehouse
+
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
 
 # 16 The Data Warehouse and the ODS
 
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+
 # 17 Corporate Information Compliance and Data Warehouse
+
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
 
 # 18 The End-User Community
 
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+
 # 19 Data Warehouse Design Review Checklist
 
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+
 # Reference Information
+
+_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+

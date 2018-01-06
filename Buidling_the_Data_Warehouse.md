@@ -97,10 +97,16 @@ Some typical data problem showing the lack of integration in existing systems en
 
 5 common techniques are used to limit the amount of operational data scanned at the point of refreshing the data warehouse:
   1. Time stamped
-  2. Log or audit file
-  3. Changes to database since last update (through comparing between before image and after image)
-  4. Delta file
-  5. Application code
+  2. Delta file
+    * A _delta file_ contains only the changes made to an application as a result of the transactions that have run through the operational environment.
+  3. Log or audit file
+    * A _log file_ contains essentially the same data as a _delta file_. However, there're some major differences. (Many times, computer operations protects the log files because they are needed in the recovery process. Computer operations is not particularly thrilled to have its log file used for something other than its primary purpose. Another difficulty with a log tape is that the internal format is built for system purposes, not applications purpose. A technological guru may be needed to interface the contents of data on the log tape. Another shortcomping is that the log file usually contains much more information than that desired by the data warehouse developer.
+    * _Autit files_ have many of the same shortcomings as log files.
+    * An example of the use of log files to update a data warehouse is the Web logs created by the Web-based eBusiness environment.
+  4. Application code
+  5. Changes to database since last update (through comparing between before image and after image)
+
+Data must be condensed both at the moment of extraction and as it arrived at the warehouse.
 
 
 

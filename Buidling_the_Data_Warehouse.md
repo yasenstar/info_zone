@@ -3,11 +3,19 @@ Book Reading as:
 
 > Thanks William H. Inmon's good book
 
-# 01 Evolution of Decision Support Systems
+# 01 Evolution of Decision Support Systems:
 
 # 02 The Data Warehouse Environment
 
 # 03 The Data Warehouse and Design
+
+* There are 2 major components to building a data warehouse:
+  1. the design of the interface from operational systems
+  2. the design of the data warehouse itself
+
+* The requirements for the data warehouse CANNOT be known until it is **partially populated and in use**, and design apporaches that have worked in the past will not necessarily suffice in subsequent data warehouse.
+
+
 
 # 04 Granularity in the Data Warehouse
 

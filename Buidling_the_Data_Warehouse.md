@@ -80,6 +80,28 @@ Some typical data problem showing the lack of integration in existing systems en
   * Data Found Here, Nowhere Else
   * Different Keys, Same Data
 
+**The existing systems environment holds tons of data, and attempting to scan all of it every time a data warehouse load needs to be done is wasteful and unrealistic.**
+
+3 types of loads are made into the data warehouse from the operational environment:
+  * **Archival data**
+    * As a rule, loading archival data from the legacy environment as the data warehouse is first loaded presents a minimal challenge for two reasons.
+    1) it often is not done at all. Organizations find the use of old data not cost-effective in many environments.
+    2) Even when archival data is loaded, it is a one-time-only event.
+  * **Data currently contained in the operational environment**
+    * Likewire presents a minimal challenge because it must be done only once.
+    * Usually, the existing systems environment can be downloaded to a sequential file, and the sequential file can be downloaded into the warehosue with no disruption to the online environment.
+  * **Ongoing changes to the data warehouse environment from the changes (updates) that have occurred in the operational environment since the last refresh**
+    * Loading data on an ongoing basis - as changes are made to the operational environment - presents the LARGEST challenge to the data architect.
+    * Efficiently trapping those ongoing daily changes and manupulating them is not easy.
+    * Scanning existing files, then, is a major issue facing the data warehouse architect.
+
+5 common techniques are used to limit the amount of operational data scanned at the point of refreshing the data warehouse:
+  1. Time stamped
+  2. Log or audit file
+  3. Changes to database since last update (through comparing between before image and after image)
+  4. Delta file
+  5. Application code
+
 
 
 # 04 Granularity in the Data Warehouse

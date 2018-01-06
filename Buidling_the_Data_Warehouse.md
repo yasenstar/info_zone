@@ -15,6 +15,13 @@ Book Reading as:
 
 * The requirements for the data warehouse CANNOT be known until it is **partially populated and in use**, and design apporaches that have worked in the past will not necessarily suffice in subsequent data warehouse.
 
+* Data warehouses are constructed in a heuristic manner, where one phase of development depends entirely on the results attained in the previous phase:
+  1. One portion of data is populated.
+  2. It is then used and scrutinized by the DSS analyst.
+  3. Based on feedback from the end user, the data is modified and/or other data is added.
+  4. Another portion of the data warehouse is built, and so forth.
+  The feedback loop continues throughout the entire life of the data warehouse.
+
 
 
 # 04 Granularity in the Data Warehouse

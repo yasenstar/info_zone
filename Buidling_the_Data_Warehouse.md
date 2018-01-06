@@ -82,7 +82,7 @@ Some typical data problem showing the lack of integration in existing systems en
 
 **The existing systems environment holds tons of data, and attempting to scan all of it every time a data warehouse load needs to be done is wasteful and unrealistic.**
 
-3 types of loads are made into the data warehouse from the operational environment:
+Three types of loads are made into the data warehouse from the operational environment:
   * **Archival data**
     * As a rule, loading archival data from the legacy environment as the data warehouse is first loaded presents a minimal challenge for two reasons.
     1) it often is not done at all. Organizations find the use of old data not cost-effective in many environments.
@@ -95,7 +95,7 @@ Some typical data problem showing the lack of integration in existing systems en
     * Efficiently trapping those ongoing daily changes and manupulating them is not easy.
     * Scanning existing files, then, is a major issue facing the data warehouse architect.
 
-5 common techniques are used to limit the amount of operational data scanned at the point of refreshing the data warehouse:
+Five common techniques are used to limit the amount of operational data scanned at the point of refreshing the data warehouse:
   1. Time stamped
   2. Delta file
     * A _delta file_ contains only the changes made to an application as a result of the transactions that have run through the operational environment.

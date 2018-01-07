@@ -7,57 +7,57 @@ Book Reading as:
 
 [01 Evolution of Decision Support Systems](#01-evolution-of-decision-support-systems)
 
-[02 The Data Warehouse Environment](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#02-the-data-warehouse-environment)
+[02 The Data Warehouse Environment](#02-the-data-warehouse-environment)
 
-[03 The Data Warehouse and Design](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#03-the-data-warehouse-and-design)
+[03 The Data Warehouse and Design](#03-the-data-warehouse-and-design)
 
-[04 Granularity in the Data Warehouse](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#04-granularity-in-the-data-warehouse)
+[04 Granularity in the Data Warehouse](#04-granularity-in-the-data-warehouse)
 
-[05 The Data Warehouse and Technology](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#05-the-data-warehouse-and-technology)
+[05 The Data Warehouse and Technology](#05-the-data-warehouse-and-technology)
 
-[06 The Distributed Data Warehouse](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#06-the-distributed-data-warehouse)
+[06 The Distributed Data Warehouse](#06-the-distributed-data-warehouse)
 
-[07 Executive Information Systems and the Data Warehouse](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#07-executive-information-systems-and-the-data-warehouse)
+[07 Executive Information Systems and the Data Warehouse](#07-executive-information-systems-and-the-data-warehouse)
 
-[08 External Data and the Data Warehouse](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#08-external-data-and-the-data-warehouse)
+[08 External Data and the Data Warehouse](#08-external-data-and-the-data-warehouse)
 
-[09 Migration to the Architected Environment](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#09-migration-to-the-architected-environment)
+[09 Migration to the Architected Environment](#09-migration-to-the-architected-environment)
 
-[10 The Data Warehouse and the Web](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#10-the-data-warehouse-and-the-web)
+[10 The Data Warehouse and the Web](#10-the-data-warehouse-and-the-web)
 
-[11 Unstructured Data and the Data Warehouse](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#11-unstructured-data-and-the-data-warehouse)
+[11 Unstructured Data and the Data Warehouse](#11-unstructured-data-and-the-data-warehouse)
 
-[12 The Really Large Data Warehouse](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#12-the-really-large-data-warehouse)
+[12 The Really Large Data Warehouse](#12-the-really-large-data-warehouse)
 
-[13 The Relational and the Multidimentional Model as a Basis for Database Design](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#13-the-relational-and-the-multidimentional-model-as-a-basis-for-database-design)
+[13 The Relational and the Multidimentional Model as a Basis for Database Design](#13-the-relational-and-the-multidimentional-model-as-a-basis-for-database-design)
 
-[14 Data Warehouse Advanced Topics](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#14-data-warehouse-advanced-topics)
+[14 Data Warehouse Advanced Topics](#14-data-warehouse-advanced-topics)
 
-[15 Cost-Justification and Return on Investment for a Data Warehouse](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#15-cost-justification-and-return-on-investment-for-a-data-warehouse)
+[15 Cost-Justification and Return on Investment for a Data Warehouse](#15-cost-justification-and-return-on-investment-for-a-data-warehouse)
 
-[16 The Data Warehouse and the ODS](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#16-the-data-warehouse-and-the-ods)
+[16 The Data Warehouse and the ODS](#16-the-data-warehouse-and-the-ods)
 
-[17 Corporate Information Compliance and Data Warehouse](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#17-corporate-information-compliance-and-data-warehouse)
+[17 Corporate Information Compliance and Data Warehouse](#17-corporate-information-compliance-and-data-warehouse)
 
-[18 The End-User Community](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#18-the-end-user-community)
+[18 The End-User Community](#18-the-end-user-community)
 
-[19 Data Warehouse Design Review Checklist](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#19-data-warehouse-design-review-checklist)
+[19 Data Warehouse Design Review Checklist](#19-data-warehouse-design-review-checklist)
 
-[Reference Information](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#reference-information)
+[Reference Information](#reference-information)
 
 ---
 
 # 01 Evolution of Decision Support Systems
 
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+_[back to TOC](#table-of-contents)_
 
 # 02 The Data Warehouse Environment
 
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+_[back to TOC](#table-of-contents)_
 
 # 03 The Data Warehouse and Design
 
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+_[back to TOC](#table-of-contents)_
 
 * There are 2 major components to building a data warehouse:
   1. the design of the interface from operational systems
@@ -133,69 +133,69 @@ Data must be condensed both at the moment of extraction and as it arrived at the
 
 # 04 Granularity in the Data Warehouse
 
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+_[back to TOC](#table-of-contents)_
 
 # 05 The Data Warehouse and Technology
 
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+_[back to TOC](#table-of-contents)_
 
 # 06 The Distributed Data Warehouse
 
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+_[back to TOC](#table-of-contents)_
 
 # 07 Executive Information Systems and the Data Warehouse
 
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+_[back to TOC](#table-of-contents)_
 
 # 08 External Data and the Data Warehouse
 
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+_[back to TOC](#table-of-contents)_
 
 # 09 Migration to the Architected Environment
 
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+_[back to TOC](#table-of-contents)_
 
 # 10 The Data Warehouse and the Web
 
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+_[back to TOC](#table-of-contents)_
 
 # 11 Unstructured Data and the Data Warehouse
 
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+_[back to TOC](#table-of-contents)_
 
 # 12 The Really Large Data Warehouse
 
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+_[back to TOC](#table-of-contents)_
 
 # 13 The Relational and the Multidimentional Model as a Basis for Database Design
 
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+_[back to TOC](#table-of-contents)_
 
 # 14 Data Warehouse Advanced Topics
 
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+_[back to TOC](#table-of-contents)_
 
 # 15 Cost-Justification and Return on Investment for a Data Warehouse
 
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+_[back to TOC](#table-of-contents)_
 
 # 16 The Data Warehouse and the ODS
 
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+_[back to TOC](#table-of-contents)_
 
 # 17 Corporate Information Compliance and Data Warehouse
 
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+_[back to TOC](#table-of-contents)_
 
 # 18 The End-User Community
 
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+_[back to TOC](#table-of-contents)_
 
 # 19 Data Warehouse Design Review Checklist
 
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+_[back to TOC](#table-of-contents)_
 
 # Reference Information
 
-_[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_Data_Warehouse.md#table-of-contents)_
+_[back to TOC](#table-of-contents)_
 

@@ -126,7 +126,11 @@ Data must be condensed both at the moment of extraction and as it arrived at the
 ### Three levels of data warehouse data modeling
 
 * High-Level Modeling: entity relationship diagram, or ERD
-* Mid-Level Modeling: data item set, or DIS
+* Mid-Level Modeling: data item set, or DIS, including four basic constructs
+  1) A primary grouping of data
+  2) A secondary grouping of data
+  3) A connector
+  4) "Type of" data
 * Low-Level Modeling: physical model
 
 

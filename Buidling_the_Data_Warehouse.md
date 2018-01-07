@@ -74,7 +74,8 @@ _[back to TOC](https://github.com/yasenstar/info_zone/blob/master/Buidling_the_D
 
 ## Beginning with Operational Data
 
-Some typical data problem showing the lack of integration in existing systems environments:
+### Some typical data problem showing the lack of integration in existing systems environments:
+
   * Same Data, Different Name
   * Different Data, Same Name
   * Data Found Here, Nowhere Else
@@ -82,7 +83,8 @@ Some typical data problem showing the lack of integration in existing systems en
 
 **The existing systems environment holds tons of data, and attempting to scan all of it every time a data warehouse load needs to be done is wasteful and unrealistic.**
 
-Three types of loads are made into the data warehouse from the operational environment:
+### Three types of loads are made into the data warehouse from the operational environment:
+
   * **Archival data**
     * As a rule, loading archival data from the legacy environment as the data warehouse is first loaded presents a minimal challenge for two reasons.
     1) it often is not done at all. Organizations find the use of old data not cost-effective in many environments.
@@ -95,7 +97,8 @@ Three types of loads are made into the data warehouse from the operational envir
     * Efficiently trapping those ongoing daily changes and manupulating them is not easy.
     * Scanning existing files, then, is a major issue facing the data warehouse architect.
 
-Five common techniques are used to limit the amount of operational data scanned at the point of refreshing the data warehouse:
+### Five common techniques are used to limit the amount of operational data scanned at the point of refreshing the data warehouse:
+
   1. Time stamped
   2. Delta file
     * A _delta file_ contains only the changes made to an application as a result of the transactions that have run through the operational environment.
@@ -107,6 +110,24 @@ Five common techniques are used to limit the amount of operational data scanned 
   5. Changes to database since last update (through comparing between before image and after image)
 
 Data must be condensed both at the moment of extraction and as it arrived at the warehouse.
+
+## The Data Warehouse and Data Models
+
+### How the level of modeling relate
+
+1. Operational data model = Corporate data model
+2. Performance factors are added prior to database design
+3. Remove pure operational data
+4. Add element of time to key
+5. Add derived data where appropriate
+6. Create artifacts of relationships
+7. Perform stability analysis
+
+### Three levels of data warehouse data modeling
+
+* High-Level Modeling: entity relationship diagram, or ERD
+* Mid-Level Modeling: data item set, or DIS
+* Low-Level Modeling: physical model
 
 
 

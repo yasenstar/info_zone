@@ -1,0 +1,10 @@
+C:\Users\v0cn037\OneDrive\GitHub\learn_c\c#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\v0cn037\OneDrive\GitHub\learn_c\c#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\v0cn037\OneDrive\GitHub\learn_c\c#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\v0cn037\OneDrive\GitHub\learn_c\c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\v0cn037\OneDrive\GitHub\learn_c\c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\v0cn037\OneDrive\GitHub\learn_c\c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\v0cn037\OneDrive\GitHub\learn_c\c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\v0cn037\OneDrive\GitHub\learn_c\c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\v0cn037\OneDrive\GitHub\learn_c\c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\v0cn037\OneDrive\GitHub\learn_c\c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources

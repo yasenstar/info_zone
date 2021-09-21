@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Calculation Playing</title>
+</head>
+<body>
+    <h1>Calculation Practice</h1>
+    <h2>Write a Table</h2>
+
+    <script>
+        function createTable(tableData) {
+            var table = document.createElement('table');
+            var tableBody = document.createElement('tbody');
+
+            tableData.forEach(function(rowData) {
+                var row = document.createElement('tr');
+
+                rowData.forEach(function(cellData) {
+                    var cell = document.createElement('td');
+                    cell.appendChild(document.createTextNode(cellData));
+                    row.appendChild(cell);
+                });
+
+                tableBody.appendChild(row);
+            });
+
+            table.appendChild(tableBody);
+            document.body.appendChild(table);
+        }
+
+        function makeTableHTML(myArray) {
+            var result = "<table border=1>";
+                for (var i=0, i<myArray.length, i++) {
+                    result += "<td>"+myArray[i][i]
+                }
+        }
+
+        paymentPlan = [
+                ["Term", "Principla", "Interest"],
+                ["row 1, cell 1", "row 1, cell 2", "row 1, cell 3"],
+                ["1", "CNY 15,000.00", "CNY 349.00"]
+            ];       
+
+        createTable(paymentPlan)
+    </script>
+</body>

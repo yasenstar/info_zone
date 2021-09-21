@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Loan Claculator</title>
+</head>
+<body>
+
+<script>
+var _width = parseInt(window.screen.width);
+var scale = _width/640;
+var ua = navigator.userAgent.toLowerCase();
+var result = /android (\d+\.\d+)/.exec(ua);
+if (result){
+var version = parseFloat(result[1]);
+if(version>2.3){
+document.write('<meta name="viewport" content="width=640, minimum-scale = '+scale+', maximum-scale = '+scale+', target-densitydpi=device-dpi">');
+}else{
+document.write('<meta name="viewport" content="width=640, target-densitydpi=device-dpi">');
+}
+} else {
+document.write('<meta name="viewport" content="width=640, user-scalable=no, target-densitydpi=device-dpi">');
+}
+</script>
+
+<form id="input_form">
+
+	<label>Customer Name:</label><input type="text"> <!-- elements(0) -->
+
+	<label>Customer Contact:</label><input type="text"><br><br> <!-- elements(1) -->
+
+	<label>Equipment Model:</label>
+	<select name="Equipment Model" id="equipment_model">
+		<option value=""></option>
+		<option value="ABG2820">ABG2820</option>
+		<option value="ABG6820">ABG6820</option>
+		<option value="ABG6820">ABG6820</option>
+		<option value="ABG7820B">ABG7820B</option>
+		<option value="ABG7820C">ABG7820C</option>
+		<option value="ABG8820B">ABG8820B</option>
+		<option value="ABG9820">ABG9820</option>
+		<option value="DD118HF">DD118HF</option>
+		<option value="DD120">DD120</option>
+		<option value="DD120HF">DD120HF</option>
+		<option value="DD140HF">DD140HF</option>
+		<option value="DD25B">DD25B</option>
+		<option value="EC120D">EC120D</option>
+		<option value="EC140BLC">EC140BLC</option>
+		<option value="EC140BLC">EC140BLC</option>
+		<option value="EC140DL">EC140DL</option>
+		<option value="EC140DL">EC140DL</option>
+		<option value="EC170DL">EC170DL</option>
+		<option value="EC18D">EC18D</option>
+		<option value="EC200B">EC200B</option>
+		<option value="EC200B">EC200B</option>
+		<option value="EC200D">EC200D</option>
+		<option value="EC210B">EC210B</option>
+		<option value="EC210B">EC210B</option>
+		<option value="EC210BLC">EC210BLC</option>
+		<option value="EC210BLC">EC210BLC</option>
+		<option value="EC210D">EC210D</option>
+		<option value="EC220D">EC220D</option>
+		<option value="EC220D">EC220D</option>
+		<option value="EC220DL">EC220DL</option>
+		<option value="EC220DL">EC220DL</option>
+		<option value="EC220DLR">EC220DLR</option>
+		<option value="EC220DLR">EC220DLR</option>
+		<option value="EC240B">EC240B</option>
+		<option value="EC240B">EC240B</option>
+		<option value="EC240BLC">EC240BLC</option>
+		<option value="EC240BLC">EC240BLC</option>
+		<option value="EC250D">EC250D</option>
+		<option value="EC250D">EC250D</option>
+		<option value="EC250DL">EC250DL</option>
+		<option value="EC250DL">EC250DL</option>
+		<option value="EC290BLC">EC290BLC</option>
+		<option value="EC290BLC">EC290BLC</option>
+		<option value="EC300D">EC300D</option>
+		<option value="EC300D">EC300D</option>
+		<option value="EC300DL">EC300DL</option>
+		<option value="EC300DL">EC300DL</option>
+		<option value="EC350D">EC350D</option>
+		<option value="EC350D">EC350D</option>
+		<option value="EC350DL">EC350DL</option>
+		<option value="EC350DL">EC350DL</option>
+		<option value="EC360BLC">EC360BLC</option>
+		<option value="EC360BLC">EC360BLC</option>
+		<option value="EC380DL">EC380DL</option>
+		<option value="EC380DL">EC380DL</option>
+		<option value="EC460BLC">EC460BLC</option>
+		<option value="EC460BLC">EC460BLC</option>
+		<option value="EC480DL">EC480DL</option>
+		<option value="EC480DL">EC480DL</option>
+		<option value="EC55B">EC55B</option>
+		<option value="EC55BPRO">EC55BPRO</option>
+		<option value="EC55D">EC55D</option>
+		<option value="EC60C">EC60C</option>
+		<option value="EC60D">EC60D</option>
+		<option value="EC700BLC">EC700BLC</option>
+		<option value="EC700BLC">EC700BLC</option>
+		<option value="EC700CL">EC700CL</option>
+		<option value="EC700CL">EC700CL</option>
+		<option value="EC750DL">EC750DL</option>
+		<option value="EC80D">EC80D</option>
+		<option value="EC950DL">EC950DL</option>
+		<option value="EC950EL">EC950EL</option>
+		<option value="ECEC55BPRO">ECEC55BPRO</option>
+		<option value="EW145B">EW145B</option>
+		<option value="EW145B">EW145B</option>
+		<option value="EW205D">EW205D</option>
+		<option value="EW60C">EW60C</option>
+		<option value="L180G">L180G</option>
+		<option value="L250G">L250G</option>
+		<option value="LG6150E">LG6150E</option>
+		<option value="LG6225E">LG6225E</option>
+		<option value="Other">Other</option>
+		<option value="Other">Other</option>
+		<option value="P6820C">P6820C</option>
+		<option value="P6870C">P6870C</option>
+		<option value="P8720B">P8720B</option>
+	</select>
+	<br><br>
+
+	<input type="button" value="Calculate" onclick="calculate()" />
+
+</form>
+
+<script language="javascript" type="text/javascript">
+function set_value()
+{
+	
+}
+</script>
+
+<script type="text/javascript" src="loan_calc.js"></script>
+
+
+</body>
+</html>

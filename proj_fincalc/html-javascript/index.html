@@ -1,0 +1,690 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script>window.BasicDomain=".edai.com";</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta content="个人贷款计算器、个人贷款计算" name="keywords" />
+<meta content="摩尔龙提供2019年最新的个人贷款计算器，方便借款人计算每月贷款利息支出、每月还款金额，以及还款总额。" name="description" />
+<meta name="applicable-device" content="pc">
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta name="mobile-agent" content="format=xhtml; url=http://m.edai.com/jsq/grdk/" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.edai.com/jsq/grdk/">
+<title>2019年最新个人贷款计算器  - 摩尔龙</title>
+<link rel="shortcut icon" type="image/ico" href="/edai2/Resource/images/favicon.ico" />
+<link href="/edai2/Resource/css/news/base.css" type="text/css" rel="stylesheet" />
+<link href="/edai2/Resource/css/news/pcyconuter.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/edai2/Resource/js/jquery-1.8.2.js" ></script>
+<script type="text/javascript" language="javascript" src="/edai2/Resource/js/news/pcycounter.js"></script>
+<script defer="defer" src="/edai2/Resource/js/My97DatePicker/WdatePicker.js" type="text/javascript"></script>
+<link href="/edai2/Resource/css/news/news.css" type="text/css" rel="stylesheet" />
+<link rel="stylesheet" href="/edai2/Resource/css/article/qrcode.css?ver=12345bec1135f59977d763b54a5b67f95">
+<script type="text/javascript" src="/edai2/Resource/js/news/current.js"></script>
+<script type="text/javascript" src="/edai2/Resource/js/news/news.js?ver=x12345bec1135f59977d763b54a5b67f95"></script>
+<!-- <script defer="defer" src="/edai2/Resource/js/news/calculator.js" type="text/javascript"></script> -->
+<script type="text/javascript">
+if (navigator.userAgent.match(/(iPhone|iPod|Android|ios|iPad)/i)){
+    location.href = location.href.replace("www", "m");
+}
+
+var Resource='/edai2/Resource/';
+var postpage = 'grdk';
+var calculatorBaseUri = 'http://openapi.edai.com';
+$(function(){
+	$(".lilv a").mousemove(area_lilv);
+	 var str1 = '';
+	if($('.ct_centop div:eq(0)').attr('class')=='ct_cpjs'){
+		str1 = ".ct_centop div:eq(0)";
+	}
+	if($('.ct_centop div:eq(0) div:eq(0)').attr('class')=='ct_cpjs'){
+		str1 = ".ct_centop div:eq(0) div:eq(0)";
+	}
+	if($('.ct_centop div:eq(0) div:eq(0) div:eq(0)').attr('class')==='ct_cpjs'){
+		str1 = ".ct_centop div:eq(0) div:eq(0) div:eq(0)";
+	}
+    var WebURL = 'http://www.edai.com/';
+    var icon = "/edai2/Resource/images/news/icon-16.png";
+	$(str1).after("<a style='z-index:40;padding-left: 66px;color:#084EAE;' href='"+WebURL+"' target='_blank'><img style='position:relative; top:3px;width:16px;' src='"+icon+"' />&nbsp;贷款只需一个免费电话</a>");
+});
+function area_lilv(){ 
+	var id=$(this).parent().index();
+	$(".lilv strong").removeClass("green_bg");
+	$(".lilv strong:eq("+id+")").addClass("green_bg");
+	$(".lilv ul").addClass("dis_none");
+	$(".lilv ul:eq("+id+")").removeClass("dis_none");
+}
+
+function area_lil(){
+	if(this.id == 'cur'){
+		$("#cur").addClass("current");
+		$("#curr").removeClass("current");
+		$("#currl").addClass("dis_none");
+		$("#curl").removeClass("dis_none");
+	}else{
+		$("#curr").addClass("current");
+		$("#cur").removeClass("current");
+		$("#curl").addClass("dis_none");
+		$("#currl").removeClass("dis_none");
+	}
+}
+</script>
+<script type="text/javascript">
+	function mobilebank(){
+		$("#banktext").val($(this).val());
+	}
+	var WebURL = 'http://www.edai.com/';	
+</script>
+
+</head>
+<body>
+<!--主体 开始-->
+     <!--头部 开始-->
+   <link rel="stylesheet" href="/edai2/Resource/css/article/qrcode.css?ver=12345bec1135f59977d763b54a5b67f95">
+<div class="by_bg">
+    <!--头部 开始-->
+    <div class="wap head01 por">
+     <!-- 节日活动 -->
+        <script language="javascript">document.write('<script language=javascript src=/javascript/getBanner/?siteType=4&frm=2><\/script> ');</script>
+        <img src='http://image.edai.com//logo/cd/logo1.png' style='float:left;margin:2px 0px 0 0'/>
+       <div class="city">
+          <span class="city_span">新闻资讯</span>
+          <span class="city_span2">&nbsp;</span>
+       </div>
+       <form onsubmit="return searchCheck(false,'www');" method="post" action="/chanpin/" name="searchForm" id="searchForm" target="_blank">
+         
+         <div class="m_search">
+            <!--<input type="text" class="input_01" value="xx">-->
+            <input id="money" class="input_01 tc_style13" type="text" value="贷款金额" name="money" onkeyup="value=value.replace(/[^0-9^.]/g,'');" onblur="if(this.value=='') {this.value='贷款金额';this.style.color='#ccc';}else{}this.className='input_01'" onfocus="if(this.value=='贷款金额') {this.value='';};this.className='input_01';this.style.color='#333';" onmouseout="this.className='input_01'" onmouseover="this.className='input_01'">
+            <input type="hidden" id="loanType"  name="loanType" value="">
+            <div class="seChange" id="selectChange">
+            <div class="sear_ti">信用贷款</div>
+            <ul class="sear_ul tc_style3" style="display:none">
+               <li><a name="xinyong" href="javascript:;">信用贷款</a></li>
+               <li><a name="fangchan" href="javascript:;">房产贷款</a></li>
+               <li><a name="qiche" href="javascript:;">汽车贷款</a></li>
+               <li><a name="qiye" href="javascript:;">企业贷款</a></li>
+			   <li><a name="yingji" href="javascript:;">应急贷款</a></li>
+            </ul>
+            </div>
+            <input type="submit" value="" name="" class="input_02">
+         </div>
+         </form>
+       <p class="p_01" ></p>
+       <div class="subnav">
+    		<script language="javascript">document.write('<script language=javascript src=/javascript/status/?mark=1&r='+Math.random()*10000+'><\/script> ');</script> 
+       </div>
+         <!--登陆弹出框开始-->
+         <div id="fast_login" style="display:none">
+           	 <form name="loginForm" id="loginForm" method="post" action="/user/login/" onsubmit="return checkFastLogin(this)">
+                <input type="hidden" name="fromUrl" value="http://www.edai.com/jsq/grdk/" />
+               <p class="login_p01">登陆账号：&nbsp;&nbsp;<input id="fast_account" class="fast_input-on tc_style14" type="text" value="用户名/手机号/电子邮箱" name="account" onblur="if(this.value=='') {this.value='用户名/手机号/电子邮箱';this.style.color='#ccc';}else{}this.className='fast_input-on'" onfocus="if(this.value=='用户名/手机号/电子邮箱') {this.value='';};this.className='fast_input-off';this.style.color='#333';" onmouseout="this.className='fast_input-on'" onmouseover="this.className='fast_input-off'"></p>
+               <p class="login_p02">登陆密码：&nbsp;&nbsp;<input id="fast_password" class="fast_input-on tc_style15" type="password" maxlength="15" name="password" onblur="this.className='fast_input-on'" onfocus="this.className='fast_input-off'" onmouseout="this.className='fast_input-on'" onmouseover="this.className='fast_input-off'"></p>
+               <p class="login_p03">
+                  <span class="fast_text">
+                          <label>
+                             <input type="checkbox" checked="checked" value="1" name="autoLogin">&nbsp;记住我
+                          </label>
+                          <a class="blue" href="/user/lostPassword/">忘记密码？</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                          <input class="fast_box" type="submit" value="登 录" name="fast_submit">
+                 </span>
+               </p>
+            </form>
+         </div>
+         <div class="l_nav wap">
+             <div class="navnew">
+			    <ul>
+                    <li><a href="http://www.edai.com/creditcard.html" target="_blank">信用卡</a></li>
+			    </ul>
+		    </div>
+         <!--登陆弹出框结束-->
+        	<ul>
+        	  <li ><a href="http://www.edai.com/">&nbsp;&nbsp;首 页&nbsp;&nbsp;</a></li>
+              <li  onmouseover="javascript:$('#nsub_2').show();" onmouseout="javascript:$('#nsub_2').hide();">
+              	<a href="/chanpin/">找贷款</a>
+              </li>
+              <div class="navdk" id="nsub_2" style="display:none;" onmouseover="javascript:$('#nsub_2').show();" onmouseout="javascript:$('#nsub_2').hide();">
+		          <div class="navz"> 
+		          		<a href="/xinyong/">信用贷款</a> 
+		          		<a href="/fangchan/">房产贷款</a> 
+		          		<a href="/qiche/">汽车贷款</a> 
+		          		<a href="/qiye/">企业贷款</a>
+		          		<a href="/yingji/">应急贷款</a> 
+		          		<div class="clear"></div>
+		          	</div>
+		      </div>
+		      
+              <li >
+              	<a href="/jigou/">找机构</a>
+              </li>
+              <li >
+              	<a href="/guwen/">找顾问</a>
+              </li>
+              <li ><a href="/anli/">案例</a></li>
+              <li><a href="http://www.edai.com/question/" rel="nofollow">问答</a></li>
+              <li class="current"><a href="http://www.edai.com/news/" >资讯</a></li>
+              <li>
+                <!--
+                <a class="erweima_toggle" href="javascript:void(0)">
+                    微信咨询 <img class="icon" src="/edai2/Resource//images/qrcode/new_icon.png" alt="" data-bd-imgshare-binded="1">
+                    <div class="erweima_box">
+                        <div>
+                            <img class="pic" src="/edai2/Resource//images/qrcode/zixun_erweima.jpg" alt="" width="120px" data-bd-imgshare-binded="1">
+                        </div>
+                        <div class="text">
+                            <p>立即咨询</p>
+                            <p>扫描<span>微信二维码</span></p>
+                        </div>
+                        <img class="arrow" src="/edai2/Resource//images/qrcode/zixun_box_arrow.png" alt="" data-bd-imgshare-binded="1" />
+                    </div>
+                </a>
+                -->
+                <a class="erweima_toggle zixun" href="http://www.edai.com/pd_loanapps/supermarket.html">
+					贷款APP <img class="icon" style="top:-3px;" src="/edai2/Resource/images/qrcode/new_icon.png" />
+				</a>
+            </li>
+            </ul><div class="clear"></div>
+        </div>
+    </div>
+    <!--头部 结束-->
+ <!--[if IE 6]><script src="/edai2/Resource/js/ie-png.js"></script><script>DD_belatedPNG.fix('#fast_login img')</script><![endif]-->
+<script type="text/javascript" src="/edai2/Resource/js/headertop.js"></script>
+<script type="text/javascript">
+var loginObj = document.getElementById('fast_login');
+var lb = 2;
+var login_botton = document.getElementById('login_botton');
+//var l_title = document.getElementById('l-title');
+
+$(function(){
+	$('#selectChange').mouseover(function(){
+		$('.sear_ul').show();
+	});
+	$('#selectChange').mouseout(function(){
+		$('.sear_ul').hide();
+	});
+
+	$('.sear_ul a').click(function(){
+		sear_ulClick(this);
+	});
+	//页脚显示weibo
+	weibo_display('foot_con3');
+});
+
+obj = $(".sear_ul a[name='xinyong']");
+sear_ulClick(obj);
+
+</script>
+    <!--头部 结束-->
+    <div class="clear"></div>
+    <!--这里是导航栏-->
+    <div class="wap mar_t_15">
+    	<ul class="daohanglan">
+        	<li>当前位置：</li>
+            <li class="ct_cor"><a href="/news/">首页</a></li>
+            <li>&nbsp;&gt;&nbsp;</li>
+            <li class="ct_cor"><a href="/jsq/">贷款计算器</a></li>
+                        	<li>&nbsp;&gt;&nbsp;</li>
+            	<li><h1>个人贷款计算器</h1></li>
+                    </ul>
+    </div>
+    <!--导航栏结束-->
+    <!--中间部分开始-->
+    <div class="wap mar_t_15">
+    	<!--从这里开始为左边部分-->
+    	<div class="ct_left ct_left_hei">
+            <ul class="pjslma">
+            <!--可以循环，从这里开始-->
+            								<li class="pcyliht">
+							<h2 class="pjslmsp" id="1">房贷计算器</h2>
+            		 	<ul class="pjslmalli">
+            		 		<li><h3><a href='http://www.edai.com/jsq/ajfd/' class='li-on'>按揭房贷计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/gjjjsq/' class='li-on'>公积金贷款计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/zhdk/' class='li-on'>组合房贷计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/gjjsy/' class='li-on'>公积金与商业贷款对</a></h3></li><li><h3><a href='http://www.edai.com/jsq/gfnlpg/' class='li-on'>购房能力评估计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/fwsf/' class='li-on'>房屋税费计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/fddb/' class='li-on'>房贷担保费计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/zfgjj/' class='li-on'>住房公积金计算器</a></h3></li>            		 	</ul>
+            		 </li>
+            								<li class="pcyliht">
+							<h2 class="pjslmsp" id="1">车贷计算器</h2>
+            		 	<ul class="pjslmalli">
+            		 		<li><h3><a href='http://www.edai.com/jsq/gczh/' class='li-on'>购车综合计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/qcdk/' class='li-on'>汽车贷款计算器</a></h3></li>            		 	</ul>
+            		 </li>
+            								<li class="pcyliht">
+							<h2 class="pjslmsp" id="1">个人贷款计算器</h2>
+            		 	<ul class="pjslmalli">
+            		 		<li><h3><a href='http://www.edai.com/jsq/debj/' class='li-on'>等额本金还款计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/debx/' class='li-on'>等额本息还款计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/ajdk/' class='li-on'>按揭贷款计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/tqhk/' class='li-on'>提前还款计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/zxdk/' class='li-on'>助学贷款计算器</a></h3></li><li><h3><a style='text-decoration: none;color:#f60;' href='http://www.edai.com/jsq/grdk/' class='li-on'>个人贷款计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/xfdk/' class='li-on'>消费贷款计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/llbd/' class='li-on'>利率变动计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/fwzxdk/' class='li-on'>装修贷款计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/xydk/' class='li-on'>信用贷款计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/xedk/' class='li-on'>小额贷款计算器</a></h3></li>            		 	</ul>
+            		 </li>
+            								<li class="pcyliht">
+							<h2 class="pjslmsp" id="1">存款计算器</h2>
+            		 	<ul class="pjslmalli">
+            		 		<li><h3><a href='http://www.edai.com/jsq/hqck/' class='li-on'>活期存款计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/tzck/' class='li-on'>通知存款计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/zclq/' class='li-on'>整存零取计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/zczq/' class='li-on'>整存整取计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/lczq/' class='li-on'>零存整取计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/zjzh/' class='li-on'>最佳存款组合计算器</a></h3></li>            		 	</ul>
+            		 </li>
+            								<li class="pcyliht">
+							<h2 class="pjslmsp" id="1">信用卡计算器</h2>
+            		 	<ul class="pjslmalli">
+            		 		<li><h3><a href='http://www.edai.com/jsq/xykfq/' class='li-on'>分期付款计算器</a></h3></li>            		 	</ul>
+            		 </li>
+            								<li class="pcyliht">
+							<h2 class="pjslmsp" id="1">其它计算器</h2>
+            		 	<ul class="pjslmalli">
+            		 		<li><h3><a href='http://www.edai.com/jsq/wbdh/' class='li-on'>外币兑换计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/grsds/' class='li-on'>个人所得税计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/ylbxj/' class='li-on'>基本养老保险金缴费</a></h3></li><li><h3><a href='http://www.edai.com/jsq/ylbx/' class='li-on'>基本养老保险金领取</a></h3></li><li><h3><a href='http://www.edai.com/jsq/wxyj/' class='li-on'>五险一金计算器</a></h3></li><li><h3><a href='http://www.edai.com/jsq/gzsy/' class='li-on'>国债收益计算器</a></h3></li>            		 	</ul>
+            		 </li>
+            	            </ul>
+        </div>
+        <script type="text/javascript">
+        	var bool = '2';
+        	$(function(){
+        		if(bool!=10){
+        			$('.pjslmsp').eq(bool).click();
+        		}
+        	});
+
+		</script>
+	<!--从这里开始为中间部分-->   
+	 <!--从这里开始为中间部分-->
+        <div class="ct_center">
+        	<form  name="estateborrow">
+        	<div class="ct_thisbox">
+                <div class="ct_centop">
+                	<!--贷款计算器开始-->
+                    <div class="ct_cpjs">个人贷款计算器&nbsp;<img src="/edai2/Resource/images/news/counter/xiaobt.png" /></div>
+                    <ul class="ct_cpul ct_cpheta">
+                        <li>贷款种类：</li>
+                        <li>
+                            <select name="borrowtype">
+                             <option value="个人住房贷款">个人住房贷款</option>
+                          <option value="个人旅游贷款">个人旅游贷款</option>
+                          <option value="个人综合消费贷款">个人综合消费贷款</option>
+                          <option value="个人短期信用贷款">个人短期信用贷款</option>
+                          <option value="个人小额抵押贷款">个人小额抵押贷款</option>
+                          <option value="个人汽车贷款">个人汽车贷款</option>
+                          <option value="助学贷款">助学贷款</option>
+                          <option value="个人留学贷款">个人留学贷款</option>
+                          <option value="大额耐用消费品贷款">大额耐用消费品贷款</option>
+                            
+                            </select>
+                        </li>
+                    </ul>
+                    <ul class="ct_cpulul">
+                                <li>贷款总额:</li>
+                                <li><input class="border" type="text"  name="original" maxlength="16" /></li>
+                                <li>元</li>
+                            </ul>
+                    <ul class="ct_cpulul">
+                                <li>按揭年数:</li>
+                                <li><input name="yearSpan" maxlength="8" class="border" type="text" /></li>
+                                <li>年</li>
+                            </ul>
+                    <ul class="ct_cpulul">
+                                <li>还款方式:</li>
+                                <li>
+                                <select name="inputSelect">
+                                    <option value="1">等额本息还款</option>
+                                    <option value="2">等额本金还款</option>
+                                </select>
+                                </li>
+                            </ul>
+                    <ul class="ct_cpulul">
+                                <li>贷款利率(年利率):</li>
+                                <li><input name="active" class="border" type="text" /></li>
+                                <li>%</li>
+                            </ul>
+                    <div class="ct_cetpbutm">
+                        <ul>
+                            <li class="ct_cetpbutma">
+                                <input type="button" onClick="javascript:sendrate2()" value="开始计算" />
+                            </li>
+                            <li class="ct_cetpbutmb">
+                                <input type="reset" value="重新计算" />
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="ct_cpjs ct_cpjss">计算结果</div>
+                    <div class="">
+                    <ul class="ct_cpulul" id='monthBackDiv'>
+                                <li>月均还款:</li>
+                                <li><input name="monthBack" class="border" type="text" /></li>
+                                <li>元</li>
+                            </ul>
+                    <ul class="ct_cpulul">
+                                <li>支付利息:</li>
+                                <li><input  name="totalInterest" class="border" type="text" /></li>
+                                <li>元</li>
+                            </ul>
+                    <ul class="ct_cpulul">
+                                <li>还款总额:	</li>
+                                <li><input name="totalBack"  class="border" type="text" /></li>
+                                <li>元</li>
+                            </ul>
+                    </div>
+                    <div class="ct_cetlast">
+                        <ul>
+                            <li><p>提示</p></li>
+                            <li>短期贷款一般采用一次性还本息或者分期付息一次性还本的方式，不适用该计算。</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        	</form>
+            <!--贷款计算器技术-->
+        	<div class="ct_thisbox mar_t_15">
+
+    <div class="ct_cenbottom">
+        <div class="box_top">
+            <div>推荐阅读</div>
+        </div>
+        <div id='featured' class="tuijianhei">
+                    </div>
+    </div>
+    <div class="clear"></div>
+</div>
+<script type="text/javascript" src="/edai2/Resource/js/news/jquery-ui-1.9.0.custom.min.js" ></script>
+<script type="text/javascript" src="/edai2/Resource/js/news/jquery-ui-tabs-rotate.js" ></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		$("#featured").tabs({fx:{opacity: "toggle"}}).tabs("rotate", 5000, true);
+	});
+</script>
+			        </div>
+<!--中间部分结束--> 
+<script languge="javascript" src="/edai2/Resource/js/news/calculator/dealdata.js"></script>
+<script languge="javascript" src="/edai2/Resource/js/news/calculator/cal.js"></script>
+
+<script language="javascript">
+$('[name="inputSelect"]').on('change', function () {
+    var val = parseInt($(this).val());
+    if (1 === val) {
+        $("#monthBackDiv").show();
+    } else {
+        $("#monthBackDiv").hide();
+    }
+});
+ //计算函数，返回计算结果并显示在相应的结果项上。
+function sendrate2() {
+        //设定一个数组，把要检验的字段对应的输入框的字符串表示赋给数组
+        var objArray = new Array();
+        objArray[0] = document.estateborrow.original;
+        objArray[1] = document.estateborrow.active;
+        objArray[2] = document.estateborrow.yearSpan;
+
+        var rst = checkData(objArray); // 调用函数检验是否有空字符
+        if (rst == "false") {
+            return;
+        }
+        rst = isInteger(objArray); // 调用函数检验是否为整数
+        if (rst == "false") {
+            return;
+        }
+        // 从表单中取值
+        var original = parseInt(document.estateborrow.original.value);  // 贷款总额
+        var active = parseFloat(document.estateborrow.active.value);    // 贷款利率（年利率%）
+        var yearSpan = parseInt(document.estateborrow.yearSpan.value);  // 按揭年数
+        var repaymentWays = parseInt(document.estateborrow.inputSelect.value);  // 还款方式
+        $.ajax({
+            type: 'POST',
+            url : calculatorBaseUri + '/api/calculator/personal-loan',
+            data: {
+                loan_amount: original,
+                loan_terms: yearSpan * 12,
+                repayment_ways: repaymentWays,
+                annual_interest_rate: active
+            },
+            success: function(result) {
+                if (0 === result.code) {
+                    data = result.data;
+                    document.estateborrow.totalInterest.value = data.total_interest;  // 支付利息
+                    document.estateborrow.totalBack.value = data.total_repayment;  // 还款总额
+                    if (1 === repaymentWays) {
+                        document.estateborrow.monthBack.value = data.monthly_repayment;  // 月均还款
+                    }
+                } else {
+                    alert('出错了,请稍后重试！');
+                }
+            },
+            statusCode: {
+                422: function () {
+                    document.estateborrow.totalInterest.value = 0;
+                    document.estateborrow.totalBack.value = 0;
+                    if (1 === repaymentWays) {
+                        document.estateborrow.monthBack.value = 0;
+                    }
+                }
+            }
+        });
+}
+</script>
+	
+	 	<div class="ct_right">
+            <div class="box maropx" >
+                <a href="http://www.edai.com/xinyong/">
+                    <img style="height:auto;width:302px;" src="/edai2/Resource/images/calculator/banner/salary.jpg" alt="">
+                </a>
+            </div>
+
+            <div class="box maropx" id='bbdsq'></div>
+        	<!--利率 开始-->
+                <div class="lilv mar_t_12" id="lilv">
+              <div class="lilv_bt">
+                 <strong class="green_bg"><a href="/lilv/" target="_blank">贷款利率</a></strong>
+                 <strong><a href="/lilv/yanghang/" target="_blank">存款利率</a></strong>
+                 <span class="lilv_more" id="lilv_more" onclick="lilvtdbox()"></span>
+              </div>
+              	<ul class="daik">
+                    <li class="daik_bt">贷款时限</li>
+                    <li class="daik_bt">商业贷款（%）</li>
+                    <li class="daik_bt bor_ts">公积金贷款(%)</li>
+                    <li>6个月内</li>
+                    <li>4.35</li>
+                    <li class="bor_ts">2.75</li>
+                    <li>6个月至一年</li>
+                    <li>4.35</li>
+                    <li class="bor_ts">2.75</li>
+                    <li>1年至3年</li>
+                    <li>4.75</li>
+                    <li class="bor_ts">2.75</li>
+                    <li>3年至5年</li>
+                    <li>4.75</li>
+                    <li class="bor_ts">2.75</li>
+                    <li>5年以上</li>
+                    <li>4.90</li>
+                    <li class="bor_ts">3.25</li>
+                 </ul>
+                 <ul class="cunk01 dis_none">
+                    <li class="cunk_bt">存款时限</li>
+                    <li class="cunk_bt">活期</li>
+                    <li class="cunk_bt">整存整取(%)</li>
+                    <li class="cunk_bt bor_ts">零存整取(%)</li>
+                    <li>3个月</li>
+                    <li>0.35</li>
+                    <li>1.10</li>
+                    <li class="bor_ts"></li>
+                    <li>6个月</li>
+                    <li>0.35</li>
+                    <li>1.30</li>
+                    <li class="bor_ts"></li>
+                    <li>1年</li>
+                    <li>0.35</li>
+                    <li>1.50</li>
+                    <li class="bor_ts">1.10</li>
+                    <li>2年</li>
+                    <li>0.35</li>
+                    <li>2.10</li>
+                    <li class="bor_ts"></li>
+                    <li>3年</li>
+                    <li>0.35</li>
+                    <li>2.75</li>
+                    <li class="bor_ts">1.30</li>
+                    <li>5年</li>
+                    <li>0.35</li>
+                    <li>-</li>
+                    <li class="bor_ts">-</li>
+                 </ul>
+                 
+           </div>
+           <!--利率 结束-->
+           <!--顾问开始-->
+			<!--精选商家开始-->
+            <div class="box mar_t_12" id='dksj'></div>
+        <!--精选商家开始-->
+            <!-- 顾问结束-->
+            <!--相关资讯-->
+            <div class="mar_t_15 ct_jigou">
+            	 <div class="box_top">
+                    <div><a href="jsq/grdk/?page=1">相关资讯</a></div>
+                </div>
+            </div>
+            <div class="box_center ct_border">
+            	<div class="ct_zixunc">
+                	<ul>
+                		                    </ul>
+                </div>
+                <ul class="ct_zixunul">
+                	                </ul>
+            </div>
+            <!--相关咨询-->
+        </div>
+        <ul class="lilv_morebox livtopp" id="lilv_morebox" style="display:none">
+                          <li><a href="http://www.edai.com/lilv/ckzbjl/" target="_blank">存款准备金率调整表</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_157/" target="_blank">浙江农信</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_156/" target="_blank">河北省信用社</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_155/" target="_blank">福建信用社</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_154/" target="_blank">山东省信用社</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_153/" target="_blank">华商银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_152/" target="_blank">韩亚银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_151/" target="_blank">大华银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_150/" target="_blank">南洋商业银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_149/" target="_blank">摩根大通</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_148/" target="_blank">友利银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_147/" target="_blank">摩根士丹利</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_146/" target="_blank">华侨银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_145/" target="_blank">永亨银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_144/" target="_blank">星展银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_143/" target="_blank">东亚银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_142/" target="_blank">渣打银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_141/" target="_blank">汇丰银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_140/" target="_blank">天津农商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_139/" target="_blank">东莞农商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_138/" target="_blank">顺德农商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_137/" target="_blank">三门峡湖滨农商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_136/" target="_blank">广州农商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_135/" target="_blank">靖江农商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_134/" target="_blank">武汉农商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_133/" target="_blank">马鞍山农商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_132/" target="_blank">九台农商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_131/" target="_blank">黄河农商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_130/" target="_blank">射阳农商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_129/" target="_blank">重庆农商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_128/" target="_blank">滨海农商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_127/" target="_blank">池州九华农商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_126/" target="_blank">合肥科技农商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_125/" target="_blank">芜湖杨子农商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_124/" target="_blank">深圳农商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_123/" target="_blank">太仓农商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_122/" target="_blank">昆山农商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_121/" target="_blank">吴江农商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_120/" target="_blank">张家港农商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_119/" target="_blank">常熟农商银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_118/" target="_blank">江阴农商银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_117/" target="_blank">无锡农商银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_116/" target="_blank">上海农商银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_115/" target="_blank">北京农商银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_114/" target="_blank">三峡银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_113/" target="_blank">西安银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_112/" target="_blank">吉林银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_111/" target="_blank">徽商银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_110/" target="_blank">兰州银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_109/" target="_blank">晋城银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_108/" target="_blank">大同市商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_107/" target="_blank">晋商银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_106/" target="_blank">宁夏银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_105/" target="_blank">乌鲁木齐银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_104/" target="_blank">东莞银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_103/" target="_blank">南粤银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_102/" target="_blank">富滇银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_101/" target="_blank">温州银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_100/" target="_blank">稠州商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_99/" target="_blank">台州银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_98/" target="_blank">绍兴银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_97/" target="_blank">金华银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_96/" target="_blank">嘉兴银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_95/" target="_blank">湖州银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_94/" target="_blank">北部湾银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_93/" target="_blank">柳州银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_92/" target="_blank">桂林银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_91/" target="_blank">遵义商行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_90/" target="_blank">贵阳银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_89/" target="_blank">上饶银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_88/" target="_blank">九江银行</a></li>
+                          <li><a href="http://www.edai.com/lilv/bank_87/" target="_blank">赣州银行</a></li>
+                    </ul>
+    </div>   
+    <!--中间部分结束-->
+    <div class="clear"></div>
+    <!--底部 开始-->
+<!--底部 开始-->
+	<div class="foot01 mar_t_15" style="height: 146px;">
+        <p class="foottest">
+        <a href="http://www.edai.com/" target="_blank">摩尔龙首页</a>|
+        <a href="http://www.edai.com/aboutus/index.html" target="_blank" rel="nofollow">关于摩尔龙</a>|
+        <a href="http://www.edai.com/aboutus/service.html" target="_blank" rel="nofollow">服务条款</a>| 
+        <a href="http://www.edai.com/aboutus/renliziyuan.html" target="_blank" rel="nofollow">诚聘英才</a>| 
+        <a href="http://www.edai.com/aboutus/lianxiwomen.html" target="_blank" rel="nofollow">联系我们</a>| 
+        <a href="http://www.edai.com/zixun/" target="_blank">资讯中心</a>| 
+        <a href="http://www.edai.com/popular/" target="_blank" rel="nofollow">摩尔龙推广</a>|
+        <a style='color:#F49603' href="/shenqing/" target="_blank" rel="nofollow">免费申请贷款</a>
+	</p>
+        <p class="foot_con2">
+        <div style="clear:both;text-align:center;color:#fff;position:relative;top:90px;">温馨提示：贷款有风险，请选择专业的贷款信息服务平台</div>
+    Copyright ©2009-2020 Edai Corporation.All Rights Reserved.<br />四川易贷网金融信息服务有限公司 版权所有<br/>  蜀ICP备16029964号-3 川 B -20120039<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fec9e80f25ec923f1689856d72cb4f3c8' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</p>
+	<!--<div class="foot_con3" style="width:550px; margin-left:auto; margin-right:auto">
+    </div>-->
+</div>
+</div>
+
+<!-- 统计代码加载 -->
+<div id="tbox"> <a title="回到顶部"  id="gotop"  href="javascript:void(0)"></a> <a id="shouc" class="shouc" onclick="AddFavorite();return false;" rel="sidebar" href="http://www.edai.com/"></a> <a title="意见反馈" id="shouc" class="shouc2" target="_blank" href='http://www.edai.com/suggest/'></a> 
+<a id="pinglun"></a>
+<div class="bdsharebuttonbox" style="position:relative;">
+	<a href="#" title="分享" id="shouc" class="bds_more shouc3" style="position:relative;z-index:1;opacity:0;filter:alpha(opacity=0)" data-cmd="more"></a>
+	<a href="#" title="分享" id="shouc" class="shouc3" style="position:absolute;top:0;z-index:0;"></a>	
+</div>
+	<script type="text/javascript">
+	var BaiDuUrl = "http://www.edai.com/jsq/grdk/";
+	var BaiDuText = "";
+	</script>
+</div>
+<script type="text/javascript" src="/edai2/Resource/js/addfavorite.js"></script>
+<script type="text/javascript" src="/edai2/Resource/js/backtop.js"></script>
+<script type="text/javascript" src="/edai2/Resource/js/common/homepage.js"></script>
+</div>
+<!--新增统计 开始-->
+<!-- Baidu start -->
+<script src="https://hm.baidu.com/hm.js?659d51fd0d3c009d915eb240bde381fa"></script><!-- 全站统计 -->
+<script src="https://hm.baidu.com/hm.js?434889737cb4bbaf9da176c76ca5faca"></script>
+<!-- Baidu end -->
+<!-- sem start -->
+<script type="text/javascript" src="http://sem.edai.com/count/?domain=2&currentUrl=aHR0cDovL3d3dy5lZGFpLmNvbS9qc3EvZ3Jkay8="></script><!-- sem end -->
+<script src="http://pv.sohu.com/cityjson?ie=utf-8"></script>
+<script src="http://plat.moerlong.com/c/js/common/his.js" ownerId='2017120821451800001' terminal="pc" source='20051' keywords='' type="text/javascript" charset="utf-8"></script>
+ 
+<!--新增统计 结束-->
+<!--底部 结束 -->
+<!--底部 结束 -->
+		<!--利率更多弹出框 开始-->
+
+         <script type="text/javascript">
+       	var lilv_lb = 2;
+       	var lilv_divobj = document.getElementById("lilv_morebox");
+    	var lilv_btnobj = document.getElementById("lilv_more");
+        function lilvtdbox(){
+        	lilv_divobj.style.display = lilv_divobj.style.display == ""?"none":"";
+        	jsq_divobj.style.display = "none";
+        	lilv_lb = 1;
+       }
+        $(function(){
+        	//贷款商家异步调用
+    		dksj(3,'details');
+            bbdsq();
+    	});
+        </script>
+        <!--利率更多弹出框 结束-->
+<!--主体 结束-->
+</body>
+</html>

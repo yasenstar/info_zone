@@ -1,0 +1,20 @@
+// string.cpp -- storing strings in an array
+// date: 2020-10-20
+#include <iostream>
+#include <cstring>    // for the strlen() function
+int main() {
+    using namespace std;
+    const int Size = 15;
+    char name1[Size];
+    char name2[Size] = "C++owboy";
+
+    cout << "Howdy! I'm a " << name2;
+    cout << "! What's yoru name?\n";
+    cin >> name1;
+    cout << "Well, " << name1 << ", your name has ";
+    cout << strlen(name1) << " letters and is stored\n";
+    cout << "Your initial is " << name1[0] << ".\n";
+    name2[3] = '\0';
+    cout << "Here are the first 3 characters of my name: " << name2 << endl;
+    return 0;
+}

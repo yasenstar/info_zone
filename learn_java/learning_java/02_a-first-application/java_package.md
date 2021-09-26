@@ -1,0 +1,32 @@
+## Java Package Structure
+
+- java
+  - lang
+    - String
+    - Thread
+    - ...
+  - io
+    - File
+    - ...
+  - applet
+    - Applet
+    - AudioClip
+    - ...
+  - net
+    - URL
+    - Socket
+    - ...
+  - awt
+    - Graphics
+      - Component
+      - ...
+    - Image
+      - ColorModel
+      - ...
+    - Peer
+      - ...
+- javax
+  - swing
+    - JButton
+    - JComponent
+    - JLabel

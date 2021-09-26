@@ -4,7 +4,7 @@
  * @Author: Yasen
  * @date: 2021-09-26
  */
-public class testjave3_1 {
+public class testjave3_1 {  // note: class name cannot contain character "-"
     public static void main(String[] args){
         int num;    //声明一个整型变量num
         num = 5;

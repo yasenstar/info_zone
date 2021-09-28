@@ -6,6 +6,7 @@ import javax.swing.*;
  * A program for viewing images.
  * @Version 1.30 2014-02-27
  * @author Cay Horstmann
+ * From Java Core Tech volumn 10 section 2.4
  */
 
 public class ImageViewer {

@@ -18,5 +18,7 @@ public class AnswerYesOrNo {
         } else {
             System.out.println("No, and don't ask again.");
         }
+
+        keyboard.close();
     }
 }

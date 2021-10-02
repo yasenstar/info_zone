@@ -12,8 +12,8 @@ public class ReverseWord {
         c4 = keyboard.findWithinHorizon(".", 0).charAt(0);
 
         System.out.print(c4);
-        System.out.print(c4);
-        System.out.print(c4);
+        System.out.print(c3);
+        System.out.print(c2);
         System.out.println(c1);
 
         keyboard.close();

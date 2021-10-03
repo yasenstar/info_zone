@@ -1,1 +1,2 @@
-UnitPrice: 198.95, Quantity: 500, Total = 99475.0
+UnitPrice: 18.95, Quantity: 513, Total = 9721.35
+OK

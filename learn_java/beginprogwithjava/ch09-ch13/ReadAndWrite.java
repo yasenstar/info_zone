@@ -15,7 +15,7 @@ public class ReadAndWrite {
 
         total = unitPrice * quantity;
 
-        diskWriter.println(total);
+        diskWriter.println("UnitPrice: " + unitPrice + ", Quantity: " + quantity  + ", Total = " + total);
 
         diskScanner.close();
         diskWriter.close();

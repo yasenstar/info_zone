@@ -1,1 +1,1 @@
-99.75
+UnitPrice: 19.95, Quantity: 5, Total = 99.75

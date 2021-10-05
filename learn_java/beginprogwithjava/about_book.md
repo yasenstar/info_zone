@@ -2,6 +2,8 @@
 
 Author: Barry Burd, PhD
 
+![coverofbook](../../img/Cover_BeginProgwithJava.jpeg)
+
 Structure of the book:
 
 1. Getting Started with Java Programming

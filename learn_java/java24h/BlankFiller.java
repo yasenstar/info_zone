@@ -1,9 +1,9 @@
 public class BlankFiller {
-    public static void main(String[] arguments) {
-        System.out.println("The " + arguments[0]
-            + " " + arguments[1] + " fox "
+    public static void main(String[] args) {
+        System.out.println("The " + args[0]
+            + " " + args[1] + " fox "
             + "jumed over the "
-            + arguments[2] + " dog."
+            + args[2] + " dog."
         );
     }
 }

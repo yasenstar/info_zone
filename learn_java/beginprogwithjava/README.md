@@ -2,6 +2,8 @@
 
 Author: Barry Burd, PhD
 
+![coverofbook](../../img/Cover_BeginProgwithJava.jpeg)
+
 Structure of the book:
 
 1. Getting Started with Java Programming
@@ -9,4 +11,3 @@ Structure of the book:
 3. Controlling the Flow
 4. Using Program Units
 5. The Part of Tens
-

@@ -1,4 +1,9 @@
-void NineNumber() {
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+int main() {
+
     int x, y, z;
     int d[9] = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 
@@ -10,4 +15,6 @@ void NineNumber() {
             cout<<x<<y<<z<<endl;
         }
     } while (next_permutation(d, d+9)); // STL中的函数，得到下一个排列
+
 }
+

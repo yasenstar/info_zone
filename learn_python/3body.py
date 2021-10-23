@@ -1,9 +1,12 @@
+#!/usr/bin/python
+# coding: utf-8
+
 from vpython import *
 
 scene.forward = vector(0,-.5,1)
 scene.width=1280
 scene.height=720
-G = 6.672e-11#万有引力常数
+G = 6.672e-11   #万有引力常数
 
 body1 = sphere(pos=vector(2e11,0,2e11), radius=2e10, color=color.red, 
                 make_trail=True, interval=10, retain=50)

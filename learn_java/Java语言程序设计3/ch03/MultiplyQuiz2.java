@@ -7,9 +7,10 @@ public class MultiplyQuiz2 {
         int number1 = (int)(Math.random()*12);
         int number2 = (int)(Math.random()*12);
 
-        boolean cont = true;
+        char cont = true;
 
-        int count = 0, correct = 0, choose;
+        int count = 0, correct = 0;
+        char choose;
         double corrRate;
 
         while (cont) {
@@ -25,11 +26,11 @@ public class MultiplyQuiz2 {
             }
             count++;
 
-            System.out.print("continue? (Press '1' to continue and '0' if want to exit): ");
-            choose = keyboard.nextInt();
-            if (choose==0) {
+            System.out.print("continue? (Press 'y' to continue and 'n' if want to exit): ");
+            choose = keyboard.findWithinHorizon(".", 0).charAt(0);
+            if (choose=='n') {
                 cont = false;
-            } else if (choose==1) {
+            } else if (choose=='n') {
                 number1 = (int)(Math.random()*12);
                 number2 = (int)(Math.random()*12);
             }

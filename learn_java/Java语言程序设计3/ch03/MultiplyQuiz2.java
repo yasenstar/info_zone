@@ -7,7 +7,7 @@ public class MultiplyQuiz2 {
         int number1 = (int)(Math.random()*12);
         int number2 = (int)(Math.random()*12);
 
-        char cont = true;
+        boolean cont = true;
 
         int count = 0, correct = 0;
         char choose;
@@ -30,7 +30,7 @@ public class MultiplyQuiz2 {
             choose = keyboard.findWithinHorizon(".", 0).charAt(0);
             if (choose=='n') {
                 cont = false;
-            } else if (choose=='n') {
+            } else if (choose=='y') {
                 number1 = (int)(Math.random()*12);
                 number2 = (int)(Math.random()*12);
             }

@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "/usr/local/bin/python3"
+    "python.pythonPath": "/usr/local/bin/python3",
+    "java.project.sourcePaths": [
+        "learn_java/Java语言程序设计3/ch01-02",
+        "learn_java/Java语言程序设计3/ch03"
+    ]
 }

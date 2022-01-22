@@ -21,7 +21,7 @@ def send_news():
 
         # 你朋友的微信名称，不是备注，也不是微信账号。
 
-        my_friend = bot.friends().search(u'AAA')[0]
+        my_friend = bot.friends().search(u'FatCatSixPack')[0]
         my_friend.send(contents[0])
         my_friend.send(contents[1])
         my_friend.send(u"Have a good one!")

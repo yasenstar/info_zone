@@ -604,11 +604,29 @@ Your organization has established a set of controls to help mitigate inherent ri
 
 - KYC is ongoing
 
-A risk-based approach to KYC helps you identify the risks each customer brings to your organization in respect to possible money laundering and terrorist financing risk. The risk-based approach is defined by your organization’s risk appetite (风险偏好), or the level of risk your organization is willing to accept based on its strategic objectives.  
+A risk-based approach to KYC helps you identify the risks each customer brings to your organization in respect to possible money laundering and terrorist financing risk. **The risk-based approach is defined by your organization’s risk appetite (风险偏好), or the level of risk your organization is willing to accept based on its strategic objectives.**
 
-The risk-based approach categorizes customers into levels of risk: such as high, medium, low, and perhaps more levels based on the policies of your organization. The level of risk determines the amount and type of due diligence you must do.  
+The risk-based approach categorizes customers into levels of risk: such as high, medium, low, and perhaps more levels based on the policies of your organization. The level of risk determines the amount and type of due diligence you must do.
 
 KYC is an ongoing effort. Your institution will have risk-based time frames for conducting periodic reviews. For example, customers might be reviewed annually if they are high risk, at two years for medium risk, and every three years if they are low risk. The frequency will vary based on your organization's policies.
+
+### Risk-based KYC benefits
+
+- Regulators advise RBA
+
+- Resource allocation
+
+- Ongoing reviews ensure risk classification is appropriate
+
+Regulators want you to apply a risk-based approach. They want you to understand your customer because you have done a sufficient amount of research, and you have documented all that research.  
+
+The risk-based approach sets out the process for you to collect information about the identity of the customer and the key customer risk factors, and to assess the risk that could arise from that relationship or transaction.  
+
+An example is the due diligence required for opening a simple checking account. Without a risk-based approach, a senior citizen from New York wanting to deposit his pension checks would be subject to the same due diligence process as a politically exposed person who is part of a foreign government wanting to deposit a large amount of funds.  
+
+**KYC does not end after onboarding a customer**. Depending on the risk classification of the customer, there should be ongoing monitoring of customer transactions and a regular, periodic review of the customer's profile. Note that customers might not remain in the same risk category throughout their relationship with your organization. For example, an ordinary individual might run for local government office and, if elected, become a PEP. That would change their risk classification from low to medium or high, based upon the role they perform.
+
+## KYC Process Overview
 
 
 

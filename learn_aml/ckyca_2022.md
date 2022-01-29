@@ -238,6 +238,130 @@ Each product or service carries a different level of risk. For example, private 
 
 Channel risk increases with non-face-to-face business relationships or transactions, or when payments are sent to or received from unknown or unassociated third parties.
 
+### Examples of higher risks
+
+- Customer: Non-resident, complex owner
+
+- Jurisdiction: Low regulation, tax haven
+
+- Product: Prepaid card, private banking
+
+- Channel: No direct relationship with customer
+
+Customers can be higher risk if they use nominee shareholders, shares in bearer form, or a company ownership structure that is very complex. In many countries, bearer shares are banned because of their potential for abuse as tax evasion and money laundering. Also, high risk are customers who conduct their business relationship with your organization at a geographic distance, which is not explained. For example, a foreign citizen, with no connection to a country where an account is being opened, requires explanation. Your organization might have a list of industries or customer types considered higher-risk which automatically get additional scrutiny.  
+
+Higher risk jurisdictions, as defined by the **Financial Action Task Force**, are countries that have been identified as having strategic deficiencies in their national anti-money laundering and counter-financing of terrorism regimes. They pose significant threats to the global financial system.  
+
+Certain products are higher risk. An example would be reloading a prepaid device via a kiosk at a gas station. Others are lower risk. An example is providing a small amount of foreign currency to an existing customer for a holiday abroad.  
+
+Some delivery channels are higher risk. Correspondent banking relationships create significant money laundering and terrorist financing risks because the domestic bank carrying out the transaction has to rely on the foreign bank to identify the customer, determine the real owners, and monitor such transactions for risks.
+
+### Customer Risk and Red Flags
+
+- Who, what they do, source of funds or wealth
+
+- Example: Cash-intensive business might deposit drug cash
+
+- Unexpected behavior is red flag
+
+Some customers present higher inherent risk to your organization because of who they are, what they do, the industry they are in, the businesses they run, or their source of funds or wealth. Look for a business model that could bring cash from illegal drug sales into the financial system, such as a car wash or other typically cash-intensive business.  
+
+Look for activity that is inconsistent with their expected behavior. For example, a natural person who is a paralegal  (律师助理) is paid every two weeks via direct deposit for US\$2,000. If she later transfers US\$144,000 into the account from an outside account, it would raise a red flag. The source of funds and source of wealth must be explained and verified.  
+
+Other red flags could include indicators of money mules, fraud, or performing banking transactions on behalf of others who do not wish their true identity to be known.
+
+### Assessing Customer Risk
+
+- Status and profession
+
+- Type and size of business
+
+- Industry
+
+- Uncooperative when asked questions
+
+- Red flags are not always permanent
+
+When assessing the risk posed by a customer, it is important to check their status and what they do. A customer who frequently visits a bank branch to change small denomination bank notes for larger ones raises a red flag. Illegal drug sales are often cash-based, small transactions. What does the customer do? Is there a good reason for this activity?  
+
+Actions inconsistent with the customer’s business also warrant attention. Red flags might include a sudden change in the currency transaction patterns of a business which is inconsistent with its normal activities. Or a retail business that has dramatically different patterns of cash deposits from similar businesses in the same general location. Or a business with no apparent or significant online sales which receives large frequent payments from an online payments system.  
+
+Certain industries are often exploited by financial criminals. Examples include charities, high-value goods dealers, casinos, and real estate agents. There is usually not one shared attribute about those industries that makes them higher-risk, so using a list of them to guide your risk assessment is a best practice.  
+
+Any customer who will not cooperate, or who refuses to provide satisfactory proof of how the source of funds or source of wealth was obtained, raises a further red flag.  
+
+Not all red flags are permanent. You might discover, for example, that your customer has the same name as someone who is listed on an official register for crimes or sanctions. If, after further investigation, you confirm that your customer is not on that register, you can clear the red flag.
+
+### Politically Exposed Person (PEP, 政治公众人物) Risk and Red Flags
+
+A PEP is a politically exposed person. According to Financial Action Task Force (FATF) there are two types of PEPs:
+
+- Foreign PEPs are individuals who are or have been entrusted (委托) with prominent (著名的) public functions by a foreign country
+
+- Domestic PEPs are individuals who are or have been entrusted domestically with prominent public functions
+
+PEPs tend to be heads of state or heads of government, senior politicians, senior government, judicial or military officials, senior executives of state-owned corporations, and important political party officials. Usually, PEP positions are specified in each jurisdiction's AML regulation.  
+
+Immediate family members, relatives, and close associates may also be classified as PEPs.
+
+### PEPs are high-risk
+
+Individuals in high positions and their associates are more vulnerable to corruption.  
+
+Corruption might be quid-pro-quo favors (交换条件) where the PEP directs government contracts to an organization in return for kickbacks. In addition, a PEP might influence legislation for bribes, or even flee the country with government funds.  
+
+In defining a PEP, it is wise to use a broad definition that includes the positions that make a person a PEP, as well as their immediate family members and close associates.  
+
+Under a risk-based approach, PEP risk is manageable. If a customer discloses during the KYC, or Know Your Customer process, that he is the husband of a government official, it may be wise to classify him as a PEP regardless of whether he would qualify under your institution's PEP definition. This will depend on your organization’s internal policies. The additional expenditure of resources will often be justified by the protection you get from the investigation.  
+
+When it comes to identifying PEPs, your organization only needs to use the information which is both in your possession and publicly known. Depending on the size of your organization, this may also include the use of a proprietary database for name **screening**.
+
+### Shell Company risk and Red flags
+
+- No assets or operations
+
+- "Shelf" is shell created to use later
+
+- Appear legitimate and mask ownership
+
+- Sometimes legitimate but high-risk
+
+- Often facilitate money laundering
+
+A shell company or corporation is a company that, at the time of incorporation, has no significant assets or operations. A similarly named "shelf" company is a corporation that has had no activity. It has been created and put "on the shelf" so that it can be sold later to someone who prefers a previously registered corporation over a new one. Both shell and shelf companies are generally kept dormant, and are used later to appear legitimate, while masking the beneficial owner. While there are legitimate uses for shell companies, within the context of researching and accepting customers, shell and shelf companies are considered high-risk.  
+
+Shell companies can be established with the primary objective to claim the proceeds of crime as legitimate revenue or to commingle criminal proceeds with legitimate revenue. According to Financial Action Task Force, the use of shell companies to facilitate money laundering is a well-documented typology.
+
+### Shell company is high-risk
+
+- Sometimes "offshore"
+
+- Complex ownership
+
+- Legally registered
+
+- Corporate servfice providers
+
+- Bearer shares identify owner
+
+- Concealed (暗) by secrecy (保密) laws
+
+Shell companies can be set up in onshore and offshore locations.
+
+Their ownership structures can take several forms
+
+- Shares can be issued to a natural or legal person or in registered or bearer form
+
+- Some shell companies can be created for a single purpose or to hold a single asset
+
+- Some shell companies can be established as multipurpose entities
+
+Shell companies are often legally incorporated and registered by the criminal organization but have no legitimate business purpose. Often purchased from lawyers, accountants or non-reputable corporate service providers, they are convenient vehicles to launder money.  
+
+Sometimes, the stock of these shell corporations is issued in bearer shares, which means that whoever carries them is the purported owner. Tax haven countries and their strict secrecy laws can further conceal the true ownership of shell corporations. In addition, the information may be held by professionals who claim secrecy.  
+
+When FATF reviewed the rules and practices that impair the effectiveness of money laundering prevention and detection systems, it found in particular that shell corporations and nominees are widely used mechanisms to launder the proceeds from crime. As a result, shell companies are considered to represent a higher risk of financial crime.
+
 
 
 # KYC Intermediate

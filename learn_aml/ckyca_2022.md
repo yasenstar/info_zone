@@ -362,6 +362,254 @@ Sometimes, the stock of these shell corporations is issued in bearer shares, whi
 
 When FATF reviewed the rules and practices that impair the effectiveness of money laundering prevention and detection systems, it found in particular that shell corporations and nominees are widely used mechanisms to launder the proceeds from crime. As a result, shell companies are considered to represent a higher risk of financial crime.
 
+### Jurisdiction Risk and Red Flags
+
+- Corrupt, unstable governments
+
+- Secrecy, tax, laundering havens (避风港)
+
+- Drug production and cartels (合作社)
+
+- Inadequate AML/CFT controls
+
+Certain countries or jurisdictions have high levels of corruption or unstable governments. Some are known as secrecy and money laundering havens or suffer from high levels of drug production and cartel activities. It’s important to consider the inherent risk in the jurisdictions where you do business.
+
+Jurisdictions with higher risk include those
+
+- With poor anti-money laundering regulations
+
+- With high levels of corruption
+
+- With inadequate regulatory and judicial frameworks to prevent terror-financing
+
+- That are subject to economic sanctions
+
+- That are considered to be tax havens
+
+- That host shell companies
+
+Examples include tax havens such as the British Virgin Islands, or the Cayman Islands. Other examples include whole countries, such as North Korea.
+
+### Sources for assessing jurisdiction risk
+
+- Transparency International
+
+- US International Narcotics Control Strategy Report
+
+- Sanctions and terror lists
+
+- FATF member or regional body
+
+- Regional risks
+
+You should look for red flags related to jurisdiction risk. Excellent sources include Transparency International’s “Corruption Perceptions Index” and the US State Department’s annual International Narcotics Control Strategy Report, which rates countries based on their money laundering controls and corruption.  
+
+You should review sanctions and terrorist financing lists published by governments and international organizations such as OFAC, HM Treasury in the UK, the UN Security Council, the US FinCEN, and the EU.  
+
+Determine if the country is a member of Financial Action Task Force or of a FATF-style regional body, and has implemented practices in line with international standards.  
+
+Take into account regional risks inside a particular country, such as port cities, free trade zones, the cross-border areas between nations, or designated areas of high intensity financial crime or drug trafficking. If the countries where you operate do not provide information on such high-risk crime areas, you can research your own list from media and other available sources.
+
+### Product Risk and Red Flags
+
+- High inherent risk
+  
+  - Private bank source of funds
+
+- Higher risk if used in a certai way
+  
+  - Quickly cancelled / refunded
+  
+  - Paid for by third parties
+
+Some financial products carry a higher risk when used by customers in a certain way.  
+
+For example, private wealth services assist to manage the funds of wealthy customers. If a customer is also a politically exposed person, a red flag is raised. This is because their wealth might not be justifiable and might have been obtained through bribery, corruption, or theft.  
+
+Financial products that are paid for immediately but can be cancelled within a certain period for a full refund are high risk. An insurance policy that is redeemed too soon should raise a red flag.  
+
+Third parties making or receiving payments raise a red flag. Criminals often use third parties to make payments on their behalf as a way of disguising the sources of funds.
+
+### Assessing product risk
+
+- Coverting cash into other forms
+
+- Selling long term products quickly - even for a loss
+
+- Third-party involvement
+
+Customers buying large value pre-paid cards might raise a red flag unless there is a good reason.  
+
+Longer term investment products, which are liquid and can be bought and sold easily, raise a red flag if the customer does not hold them for long and is unconcerned about losses.  
+
+Trade finance, which is the provision of financing or credit for trade transactions, is a high-risk product. Red flags are raised if a payment to the seller is made by an unrelated third party. For example, the customer might misclassify the commodity, over value or under value it.
+
+### Product risk - Case example
+
+- Potential private bank customer wants to buy stocks
+  
+  - US\$250,000 property sale
+  
+  - US\$9,000 cash from income
+
+- Red Flags: PEP, structuring, cash deposits
+
+The private banking department opens an investment account for a new customer. He has control of the portfolio, and your organization advises him. He wants to buy highly liquid stocks and shares. He deposits US$250,000 from a property sale now, from another bank, and says he will add US$9,900 in cash, every month going forward. His identity is verified. He is the Inspector of Buildings for the state department of works. This is a local government position. He is responsible for signing the fire safety certificates for large building developments. He says the money for the monthly deposit will come from private consultancy work he undertakes for major construction companies. Despite these explanations, and verified identity, there are red flags. He might be a politically exposed person, due to his position with the local government. His monthly payments must be challenged.
+
+Private banking is a high-risk product because it tends to attract high net worth customers who value their privacy. Some private banking customers could be PEPs.  
+
+While the amount he uses to open the account can be verified by inquiry, the monthly cash deposit is a red flag. Many jurisdictions have a cap on how much money can be deposited or withdrawn in cash before a currency transaction report must be made. In your jurisdiction, the limit is US$10,000. The customer wishes to deposit an amount just below this. Is this deliberate?  
+
+The customer holds an important role in local government. That could make him a senior government official, and therefore a politically exposed person, and high risk.  
+
+The customer has been very open about what he does. Could he be accepting bribes from the construction companies to give the fire safety certificates without making the proper checks and disguising it as advisory fees?  
+
+Do you think it unusual for a senior expert giving specialist advice to a major company to be paid in cash and in such a large amount?  
+
+The customer’s identity has been verified. You can allocate him PEP status in your records. You must ask for proof of the property sale, a copy of the contract for his advisory services, and permission from his employer to take on separate employment.  
+
+Note that being a PEP is not a crime and should not be treated as such. The risk presented to the firm by a PEP is higher; therefore, additional controls may be applied.
+
+### Channel Risk and Red Flags
+
+- Risk from sale or delivery method
+
+- Risk increases
+  
+  - Non-face-to-face
+  
+  - Transactions with unknown 3rd parties
+
+Channel risk is the inherent risk posed by the method in which an institution’s products are delivered. It is also known as delivery channel risk. Channel risk increases with non-face-to-face business relationships or transactions or when payments are sent to or received from unknown or unassociated third parties.
+
+### Assessing Channel Risk
+
+- Higher risk if identity obscured
+
+- Higher risk if different standards
+
+- Maintain confidentiality
+
+Other examples of high-risk delivery channels include
+
+- Correspondent banks, payable through accounts, and concentration accounts
+
+- Remote transactions
+
+You need to include additional risk arising from channels in your Customer Risk Rating Model.
+
+If your organization allows for customers to open accounts without being physically present, then additional controls are needed to mitigate the risk of identity fraud or deception. Here are some criteria taken from the European Union’s Anti-Money Laundering Directive:
+
+- Establish the customer’s identity by additional documents, data, or information
+
+- Add verification measures, including certification of documents by another organization
+
+- Require that the first payment to the account is from an account held by that customer at an organization subject to the same standard of controls—maybe even at a sister branch
+
+- Never agree to open accounts for fictitious, anonymous, or numbered entities. However, privacy is a right and regulatory obligation in many jurisdictions. Organizations should limit the employees who know which customers have accounts. Furthermore, employees are not allowed to share account holder identities with family, friends, or even coworkers unless on a need-to-know basis.
+
+## Risk-Based Approach (RBA)
+
+### RBA to Business
+
+Risk Appetite: Every organization has its own appetite for risk. This determines the type of customer it will accept, the types of product it will offer, and the jurisdictions in which it will do business.  
+
+Risk-Rating: Once this is established, the organization will allocate a risk rating to these categories. For example, an individual customer with a regular job and a salary opening a savings account would be low risk, assuming the source of funds can be corroborated and there is no relevant, negative news. A Politically Exposed Person, or PEP, is higher risk. Products and jurisdictions also present a range of risks.  
+
+Use Resources Wisely: Using a risk-based approach allows your organization to effectively use its resources by classifying customers based on the level of perceived risk that they could pose from a financial crime perspective.  
+
+Those decisions drive the level and frequency of customer research and updating the customer profile.
+
+### RBA is now a regulatory expectation
+
+Risk Assessment: Risk assessment as a whole has become more important in recent years because the fight against financial crime has taken a more holistic approach, with regulators emphasizing a risk-based approach to every way you interact with your customers.  
+
+Risk Level: Accurately judging the risk level that a customer might be involved in laundering money is an important prerequisite for the “risk-based” approach. Financial institutions need to conduct due diligence on business operations, industries, customer characteristics, and regions, in order to obtain adequate, complete, and truthful customer information as the basis of analysis.  
+
+Focus Effort: A risk-based approach focuses effort where it is most needed and will have most impact. It requires the full commitment and support of senior management, and the active cooperation of all employees.  
+
+Manage Risk: Adopting a risk-based approach implies the adoption of a risk-management process for dealing with money laundering and terrorist financing. This process encompasses recognizing the existence of the risks, undertaking an assessment of the risks, and developing control strategies to mitigate and monitor the identified risks.  
+
+Mitigate the Highest Risks: Money laundering risk is just one element of risk financial institutions face. Others include credit risk and market risk. Combining the management of these risks enables risk managers to assess the financial crime risk and devote resources to mitigating the highest risks.
+
+### Controlling Risk
+
+- Controls are critical to success
+
+- Risk assessment guides controls
+
+- 3 categories: Preventive, Detective, Corrective
+
+Controlling risk is critical to the overall success of an institution. Financial crime risk assessments help to develop control strategies to mitigate and monitor the identified risks. Some examples of these control strategies are policies and procedures, training, four eyes checks, and segregation of duties. These controls fall into three categories: preventive, detective, and corrective.
+
+### Internal Control Framework
+
+An internal control framework is the process through which an organization obtains reasonable assurance that it is achieving its objectives in relation to its operations, reporting, and compliance.  
+
+The five components of the internal control framework are the overall control environment, risk assessment, control activities, information and communication, and monitoring.  
+
+The overall control environment is the set of standards, processes, and structures that provide the basis for carrying out internal control across the organization.  
+
+A money laundering risk assessment measures the likelihood or probability that the business will unwittingly engage in money laundering or terror financing. The risk assessment identifies inherent risks, the effectiveness of existing controls, and captures the residual risk.  
+
+Control activities in financial crime prevention include preventive, detective, and corrective controls.
+
+- Preventive controls include robust due diligence, record keeping, and record retention.
+
+- Detective controls include reporting suspicious activity to the appropriate authorities.
+
+- Corrective controls include the eventual exiting of a customer relationship where necessary.  
+
+Information and communication include proper training for employees, third-party providers, and the board of directors. Regular updates should be given when money laundering typologies evolve, so that front line staff know what to look for.  
+
+The final element of risk control is monitoring. This is usually undertaken by a separate department (such as Internal Audit) or independent assurance within the business or the compliance lines, who will test that all policies, procedures, and controls have been properly observed and applied.
+
+### Residual risk equation
+
+Residual risk = Inherent risk - Controlled risk
+
+Financial institutions measure risk by conducting a risk assessment.  
+
+You can use the equation: Inherent Risk – Controlled Risk = Residual Risk  
+
+Inherent risk is the risk before controls are applied. Inherent risk generally takes into account the risk factors of Customer, Jurisdiction, Product, and Channel.  
+
+All of that comes together to create inherent risk (固有风险).  
+
+The next part of the equation is Controlled Risk. Your organization has many controls, including customer due diligence, governance, training, adequate staffing, testing, and transaction monitoring.  
+
+Residual risk is the risk that remains after you implement effective controls.
+
+### Inherent Risks and Controls
+
+To understand inherent risk, it is important to know the specific risks associated with each risk factor.  
+
+1. Customer: Customer risk can be higher if the customer is a non-resident, if the customer’s legal structure is complex, or if the customer’s business is cash-intensive.  
+
+2. Jurisdiction: Jurisdictions with higher risk include those with poor anti-money laundering regulations or areas with high levels of corruption.  
+
+3. Product: Each product or service carries a different level of risk. For example private banking is considered higher risk, as transactions may be confidential in an attempt to mask true ownership.  
+
+4. Channel: Channel risk increases with non-face-to-face business relationships or transactions, or when payments are sent to or received from unknown or unassociated third parties.  
+
+Your organization has established a set of controls to help mitigate inherent risk. **KYC controls include customer identification, customer due diligence, management approvals, and dual controls**. In addition, your organization should have carefully documented policies and procedures, and carefully documented research to know your customer.
+
+### RBA to KYC (Initial and Ongoing)
+
+- Identify risk from each customer
+
+- Defined by your risk appetite
+
+- High, medium, low, and perhaps more
+
+- KYC is ongoing
+
+A risk-based approach to KYC helps you identify the risks each customer brings to your organization in respect to possible money laundering and terrorist financing risk. The risk-based approach is defined by your organization’s risk appetite (风险偏好), or the level of risk your organization is willing to accept based on its strategic objectives.  
+
+The risk-based approach categorizes customers into levels of risk: such as high, medium, low, and perhaps more levels based on the policies of your organization. The level of risk determines the amount and type of due diligence you must do.  
+
+KYC is an ongoing effort. Your institution will have risk-based time frames for conducting periodic reviews. For example, customers might be reviewed annually if they are high risk, at two years for medium risk, and every three years if they are low risk. The frequency will vary based on your organization's policies.
+
 
 
 # KYC Intermediate

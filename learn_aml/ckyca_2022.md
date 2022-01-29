@@ -148,6 +148,96 @@ Types of Risk:
 
 Organizations that facilitate money laundering or terrorits financing, even if done inadvertently (不经意间), are likely to face all of these risks.
 
+### Risks are often connected
+
+- Regulatory: Multiple jurisdictions
+
+- Legal: Sanctions, tax, AML
+
+- Financial: Fixes, more controls
+
+- Reputational: news and social media
+
+Regulatory risk is complex. Many organizations operate in more than one country and therefore face multiple regulations. Typically, an organization will meet the requirements of its home regulator and make that its global standard. Where necessary, specific local regulations may overlay the global standard. Failure to meet regulatory rules can result in fines, business restrictions, or both.  
+
+Legal risk arises from actions taken by law enforcement authorities in respect of contravention of local laws. A prosecution can be brought for sanctions breaches, assisting a customer to evade taxes, or allowing a customer to launder money through an account with your organization. Civil lawsuits (民事诉讼) can be filed for many reasons, including in response to a regulatory compliance failure.  
+
+Financial risks come from a variety of sources. One example could be the costs of remedying a failed regulatory inspection. Legal costs might arise defending a prosecution for money laundering or defending a claim that personal data collected from customers has not been stored securely.  
+
+Reputation risk is very hard to manage as it can be driven by a news story, including fake news. For example, in the wake of a human trafficking scandal (人口贩卖丑闻), it might be reported that your organization-maintained accounts for the traffickers and did nothing about it. As a result, customers may leave, reducing profitability. It is important to note that reputation risk can be driven by the intended actions of an organization, such as opening credit card accounts for customers without their consent.
+
+### Regulations related to KYC
+
+- Broadest global regulations
+  
+  - USA: Bank Secrecy Act (BSA)
+  
+  - EU: AML Directives (5th)
+  
+  - UK: Money Laundering and Terrorist Financing Regulation (2019)
+
+- "Extraterritorial" (治外法权)
+
+Every country has regulations to prevent money laundering, bribery and corruption, fraud, tax evasion, and terrorist financing. Globally, the most overreaching regulations have been issued by the US, the European Union, and the United Kingdom.  
+
+The Bank Secrecy Act, or BSA, is the primary US anti-money laundering regulation. In the European Union, it is the 5th Anti-Money Laundering Directive. In the United Kingdom, it is The Money Laundering and Terrorist Financing (Amendment) Regulation 2019.  
+
+Many regulations have extraterritorial reach, meaning they apply even outside the country that issued them. Your organization will need to comply with these regulations as well as those of your home regulator.
+
+### Laws and Guidance
+
+- US: BSA, PATRIOT Act, FCPA
+
+- EU: Series of AML Directives
+
+- Financial Action Task Force (FATF)
+
+- UK: MLTF, Bribery Act (贿赂法)
+
+- Hong Kong: AMLO
+
+In the USA, the BSA covers anti-money laundering, and has been amended to include certain provisions of Title III of the USA PATRIOT Act to detect, deter, and disrupt terrorist financing networks.  
+
+The Foreign Corrupt Practices Act of 1977, or FCPA, prohibits US companies and individuals from paying bribes to foreign officials in furtherance of a business deal. It has extraterritorial reach.
+
+The European Union developed its 5th Money Laundering Directive based in-part on the following:
+
+- A significant change in terrorist attacks in Europe over the previous five years
+
+- The Panama Papers leaks, which identified the extent to which offshore accounts are used to disguise beneficial ownership
+
+- The adoption of cryptocurrencies and other digital channels for money laundering, which are currently unregulated sectors
+
+The EU’s intent is to ensure the Financial Action Task Force, or FATF, anti-money laundering recommendations are implemented. FATF is an inter-governmental body that sets international standards that aim to prevent money laundering and terrorist financing and the harm they cause to society.  
+
+The UK’s Money Laundering and Terrorist Financing (Amendment) Regulations 2019 is wider than the EU Directive. It requires organizations to include new additional high-risk factors when assessing the need for enhanced due diligence, to seek additional information, and to increase monitoring in certain cases.  
+
+The Bribery Act 2010 is UK legislation that also has extraterritorial reach.  
+
+An example of a regional regulation is the Hong Kong Anti-Money Laundering Ordinance, AMLO, that highlights internal controls, processes, considerations, monitoring, and reporting requirements on covered persons and entities.
+
+## Risk Categories
+
+### 4 Categories of Risk
+
+- Customer
+
+- Jurisdiction
+
+- Product
+
+- Channel
+
+An overall customer risk rating is usually derived as a composite of the following four categories of risk in money laundering prevention: Customer, Jurisdiction, Product, and Channel.  
+
+The risk associated with the customer can be higher if the customer is nonresident, if the customer’s legal structure is complex, if the customer is in an industry often exploited for (被利用) financial crime, or if the customer’s business is cash-intensive.  
+
+Some jurisdictions are higher risk because their own laws, regulations, and enforcement controls to prevent financial crime are weak, or nonexistent.  
+
+Each product or service carries a different level of risk. For example, private banking is considered higher risk, as transactions may be confidential and attempt to mask true ownership.  
+
+Channel risk increases with non-face-to-face business relationships or transactions, or when payments are sent to or received from unknown or unassociated third parties.
+
 
 
 # KYC Intermediate

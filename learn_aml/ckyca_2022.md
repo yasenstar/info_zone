@@ -1,6 +1,6 @@
 # ![](https://cdn-lms.acams.org/covers/path/4312/ckyca-badge-300.png?__token__=exp=1643550124~hmac=f1ea0230ec851dc0e101c0d740dec1db5311a7d727f5ddc6afa9acbd73c7be6c&Expires=1643550124&Signature=MT~W4DBZp8Iqbda8hHuH6ZLHdt2UFa3zPKTUjV-eoVt6fCQQ0-Av1MEssxw~FGu0GNBsweGEuJWeJjTGUREWyQaAT-Lv~fAgePtR6FnQ5uIbl21ljrH-RSsxLLg4MaAd542vr0MVkcsk2gs4K3apfwvDTLBmcRPX7NsVY15~uSurv5Ty~WRRVQI55tSlAm8ywCxUZo1q-sMLZd5d~gwWCkKR2PeZNKDjkGUrUv914k7mEtHbuQvXH~qTAu-lqSWGuJcy1YjGmME4~UfLvmasQ7nYaVRGTlOadv~KlTwcpiTpk-tmRiIODsJz8wJTOq2YZm~UuUnxgKsxzPoPXELE0w__&Key-Pair-Id=APKAJRAMQF3KA5NZSUDA)
 
-# KYC Foundations
+# KYC Foundations - Essentials
 
 ## Background
 
@@ -628,7 +628,229 @@ An example is the due diligence required for opening a simple checking account. 
 
 ## KYC Process Overview
 
+### Following organization-specific policies and prcedures
 
+- Guide due diligence, screening, transaction monitoring, controls
+
+- Guide suspicious transactions reports
+
+- Manage risk
+
+It is important that you follow your organization’s specific policies and procedures. These are designed to ensure that the appropriate due diligence is performed on all customers. They ensure that there is appropriate name screening, transaction monitoring, and other controls. They provide the procedure for reporting suspicious transactions. Added together, policies and procedures are designed to prevent bad actors from using your organization for criminal activities. They also protect you and your organization from regulatory criticism or possible action by the law enforcement agencies. Failure to follow them, or efforts to avoid them, could result in disciplinary action from your employer, or penalties to your institution from the regulator.
+
+In order to follow the policies and procedures, need
+
+- Know where to find and apply
+
+- Regular training
+
+- Onboarding is key
+
+- Suspicious activity reporting
+
+- Assess if policies and procedures are adequate and followed
+
+In order for staff to follow their organization’s specific policies and procedures, they must know where to find them and how to apply them. A policy sets out the principles of action to be used by an organization. A process is a series of actions or steps taken in order to achieve a particular outcome. A procedure is an established way of doing something.  
+
+Training on policies and procedures must be given and refreshed at appropriate intervals. Important changes to, or new, policies must be communicated. Consequences for failure to follow policies and procedures must be clear to staff at all levels.  
+
+A clearly defined policy and process for onboarding customers, with appropriate four eyes checks, will protect the organization and employees from criticism. It is important that documentation and records are maintained to demonstrate compliance.  
+
+Staff who deal with suspicious activity alerts must be rigorous in applying the organization’s policies and procedures when handling alerts. Regulators will often call for such records to test the organization’s financial crime prevention procedures.  
+
+If policies and procedures get in the way of legitimate transactions, and frequent breaches or exceptions are made simply to complete those transactions, your organization should assess whether the policies and procedures are adequate and productive. If it was discovered that the violations were willful, there must be consequences for the individuals concerned. That is a regulatory expectation.
+
+### Four research steps
+
+1. **Access** what you need
+
+2. **Explore** to find answers
+
+3. **Organize** to make meaningful
+
+4. **Present** to information and defend
+
+First, you should assess what you already know, and the knowledge gaps you need to fill. Start by determining what you need at the end, so you can use your resources wisely.  
+
+Second, you should explore to find the answers you need about the situation and those involved.  
+
+Third, organize your information in a meaningful way. Decide what is relevant and important.  
+
+In the final step, present the results based upon what you know about the customer.
+
+The four steps loop --
+
+- As you **Organize**, you find gaps
+
+- If needed, **Explore** more
+
+- **Present** is most important
+
+- Avoid doing redundant work
+
+- Be a good business partner
+
+You can see how these four steps loop around. First you assess, then you explore, and as you organize your information, you can better assess gaps. Sometimes that pushes you back to the explore step. An example of this is enhanced due diligence. At first, during standard due diligence, you thought you knew enough about the customer. But when organizing your information, you realized that this customer deserved a deeper look, so you did enhanced due diligence by exploring some more to get a better picture of the customer.  
+
+The final step, where you present the results based upon what you know about the customer, might be the most important. Several audiences will rely on the hard work you have done. The present step is where you document, persuade, and defend your research choices in ways that meet the needs of all your audiences—now and over the life of the relationship with this customer.  
+
+Make sure you don’t do redundant work. Regulators want you to be thorough, but your organization’s business staff wants to ensure that the compliance process is easy for your customers. Keep your organization’s limited budget and staff in mind. Be a compliant and good business partner who creates a positive customer experience.  
+
+Used together, these four steps will help you to be more effective and efficient.
+
+### Duty to report
+
+- Organizatgion must report suspicious behavior
+
+- Personal liability
+
+- Clear policies ensure clear reporting
+
+- Designated officer is responsible
+
+If an organization suspects that a customer is laundering money, or committing other types of financial crime, it has a duty to report it to the authorities. In many countries, there is a personal liability to report money laundering, and there are legal penalties of fines and imprisonment if you do not do so. However, your organization will have clearly defined policies and procedures to ensure reporting is clear and factual, and to protect you. Around the world, organizations appoint officers to be responsible for anti-money laundering programs. The title may be the Chief Compliance Officer (CCO), AML Officer, Money Laundering Reporting Officer (MLRO), the Principal Officer (PO), Chief Anti Money Laundering Compliance Officer (CAMLCO), or a title reflective of the jurisdiction.
+
+Suspicious activity reporting:
+
+- Legal consequences
+
+- "Willful blindness"
+
+- Policies guide reporting
+
+- Designated officer decides
+
+- Reports are defense if an investigation
+
+In many countries, there are legal consequences for individuals who are proved to have failed to report money laundering or are suspected of money laundering. These range from heavy fines to imprisonment. In some jurisdictions, an individual can be prosecuted for “willful blindness,” which will be judged on the circumstances surrounding the transaction and the defendant’s conduct. Courts define willful blindness as the “deliberate avoidance of knowledge of the facts” and have held that willful blindness is the equivalent of actual knowledge of the illegal source of funds or of the intentions of a customer in a money laundering transaction.  
+
+It is important that organizations put in place policies and procedures to enable staff to report their suspicions to an assigned compliance officer. Staff must be properly trained in these procedures to ensure that both they, and your organization, meet the duty to report requirement. The assigned compliance officer will be responsible for assessing the information and deciding what actions must be taken. The process might stop following the escalation of the potentially suspicious activity because the compliance officer considers the activity or explanation to be sufficient. If the facts indicate an external report must be made, the most usual action is the submission of a suspicious activity report (SAR) to the relevant authority in the jurisdiction. Reporting within agreed timelines ensures that the individual and the organization effectively discharge their responsibilities. Some jurisdictions may require unusual activities to be reported, in addition to those which are deemed suspicious.
+
+### Tipping off (小费)
+
+- Criminal offense - fines or prison
+
+- Neve disclose information
+
+- Never tell the customer
+
+- Filling a SAR properly can protect you
+
+"Tipping off" is a criminal offense, for which you can be fined or even imprisoned. It occurs when a person discloses to any other person, information or any other matter, which is likely to prejudice (偏见) a money laundering investigation. This means you must not tell the customer, or anyone else who does not need to know, that they are the subject of a suspicious activity report (SAR) or criminal investigation. Most jurisdictions provide immunity, or safe harbor, to the filing institution and its employees.
+
+- Everyone who contacts customers must understand this law
+
+- Jurisdictions vary
+
+- Data protection law are relevant
+
+- Often permission to conduct the account will be granted
+
+It is important that front line staff understand the "tipping off" offense, because it is likely that they will be the people explaining to a customer why there is a delay in processing a transaction or request. Such explanations are best handled under the direction of the MLRO or nominated AML Officer.  
+
+When a SAR has been filed each institution will have a specific policy and a process. Anyone who contacts a customer should have received training on how to handle this type of customer contact, and fully understand the sensitivity and responsibility of not “tipping off” the customer about a possible SAR filing. In addition, your institution needs to observe local data protection and legislative requirements. Financial institutions cannot mention anything concerning a SAR, the fact that they are considering filing one, or that they have filed one. In some jurisdictions, the unauthorized disclosure of a SAR is a criminal offense.  
+
+In many cases, permission to continue normal business activities with the account would be granted so as not to alert the bad actors that an investigation is underway. In these situations, it is important that the way the business is conducted does not change, as this itself could be construed as "tipping off."  
+
+A record detailing actions that the organization and its nominated officers have taken should be kept.
+
+## Review Questions
+
+**What is the purpose of KYC?**
+
+Answer: To manage the risk posed by customers.
+
+Explanation: Ultimately, the overall purpose of KYC is to manage the risk posed by customers. This is accomplished by understanding the customer and activity, documenting information, and assigning a risk score—all of which are used to manage the overall risk a customer presents to the organization.
+
+**A customer can be a natural person or a legal person.**
+
+Answer: TRUE.
+
+Explanation: Customers can be individuals such as natural persons; or legal persons such as a trusts, government bodies, corporations, LLCs, or partnerships.
+
+**When a customer has the same name as someone who is listed on an official register for crimes or sanctions, you always:**
+
+Answer: Make further inquiries to discover whether this is your customer.
+
+Explanation: Making further inquiries will allow you to determine if there is a true match. You should check date of birth, middle names, aliases, locations, and carefully review the source of the match to determine whether this is your customer.
+
+**All geographic jurisdictions have the same risk:**
+
+Answer: FALSE
+
+Explanation: Even counties within a given state might have a different risk profile, depending on the level of corruption or criminal activity. In the United States, for example, a list of high intensity financial crime areas and high intensity drug trafficking areas are available by county. These jurisdictions are at a higher risk than counties without such designations.
+
+**Which of the following is not a high-risk delivery channel?**
+
+Answer: Opening an account in person
+
+Explanation: Face-to-face transactions are the most secure delivery channel. The identity of the conductor can be seen and verified. The further you are from the customer, the higher the risk.
+
+**Which is not a step of the risk management processes for AML?**
+
+Answer: Considering the dollar value fo the portfolio the customer will bring to the bank.
+
+Explanation: The dollar value that the customer is bringing to the bank is not relevant to the risk assessment process. Considering the source of wealth and source of funds of the money is relevant—but the amount should not sway the risk-assessment.
+
+Other three choices are all the steps of the Risk Management Processes:
+
+- Assessing the inherent risks
+
+- Developoing control strategies to mitigate and monitor the identified risks
+
+- Recognizing the existence of the inherent risks
+
+**What is the purpose of the financial crime risk assessment?**
+
+Answer: Measure the likelihood that the business will unwittingly engage in money laundering or terror financing
+
+Explanation: The risk assessment is intended to evaluate the customer types, policies, and procedures of the financial institution. It can assist in identifying gaps or missed opportunities in the financial institution's AML program. By evaluating the risks and stated controls, a program can have a risk-based approach to customers and products.
+
+**What are the three categories for control strategies?**
+
+Answer: Preventive, Detective, Corrective
+
+Explanation: The three types of control strategies are preventive, detective, and corrective. We seek first to prevent financial crimes, then detect suspicious activities and report them appropriately, and implement corrective controls, such as potentially exiting a customer relationship, when necessary.
+
+**The residual risk equation is Control Effectiveness - Inherent Risk = Residual Risk**
+
+Answer: FALSE
+
+Explanation: The residual risk equation is Inherent Risk – Controlled Risk = Residual Risk. We start this analysis by looking at the amount of risk, and then we subtract mitigating controls.
+
+**Why is a risk-based approach important?**
+
+Anser: So you can apply appropriate scrutiny (审查) based on the risk presented to you by a given customer
+
+Explanation: With a risk-based approach, a senior citizen wishing to deposit a pension check in her name will require less due diligence than a new money service business wishing to begin operations or a non-resident alien who wishes to open a bank account. The risk-based approach allows resources to be directed to the place where there is the highest risk of a problem.
+
+**What is the four eyes check?**
+
+Answer: Ensuring that at least two people review the informationm collected.
+
+Explanation: At least two people should review the information collected to ensure that things make sense: the original person who takes the information, and at least one other individual.
+
+**Which of the following is not one of the 4 research steps to improve the quality of KYC research?**
+
+Answer: Verify
+
+Explanation: The final research step is "Present." This includes documentation of the information found, which will be utilized by others researching suspicious activity, auditors, and regulators in assessing the efficacy of the program. Proper documentation can prevent repetitive and redundant work by documenting previous findings.
+
+Memo: Assess -> Explore -> Organize -> Present
+
+**An organization has a duty to report which of the following?**
+
+Answer: If there is a suspicion that a customer is laundering money or committing other types of financial crimes.
+
+Explanation: Depending on your jurisdiction, a suspicious activity report should be filed when there is reason to suspect that money laundering or illicit activity is occurring, or when there is no apparent business purpose to the activity and an investigation does not clear up concerns.
+
+# KYC Foundations - Assess
+
+# KYC Foundations - Explore
+
+# KYC Foundations - Organize
+
+# KYC Foundations - Present
 
 # KYC Intermediate
 

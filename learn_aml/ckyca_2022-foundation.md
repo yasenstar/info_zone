@@ -846,6 +846,114 @@ Explanation: Depending on your jurisdiction, a suspicious activity report should
 
 # KYC Foundations - Assess
 
+Learning Objective: Assess what you already know and what you need to know about your customer
+
+## Access Step Introduction
+
+Assess = to ask, plan and prepare
+
+The first step in the four-step research model is to assess what you already know about the customer and what knowledge gaps you need to fill. Start your research by knowing what you need at the end, and by planning how to use your resources wisely. Avoid doing too much research, repeating what others have done, or unnecessary detail. Balance your need to be compliant with your organization’s need to provide a positive customer experience. By taking time to properly assess your needs, and by doing only what you need to do, you can be both compliant and a good business partner.
+
+The Assess Step saves time on
+
+- Where to find the best information
+
+- What inforation is relevant
+
+- How much detail to include
+
+- Specific answers required
+
+- How much research is enough
+
+The time you invest now, at the start of the process, will make the rest of your decisions during research more efficient and more effective.  
+
+Obviously, it’s easier to choose where to find the best information after you’ve assessed what types of information you need. If at this point you develop a list of what you already know, then you can reduce the amount of work still left to do. You’ll be able to more easily sort out information that isn’t relevant or important because it doesn’t fill one of the gaps you identified. Often during research you’ll find way more detail than you can manage—and way more detail that any of your future audiences will have time to read. The Assess step helps you identify how much detail to include—and, even better—the specific answers your organization, or your external audiences, requires you to provide. In a way you can pre-sort information even before you find it, just because you’ll know as you research what you need and what you don’t—and what others have already found before you.  
+
+Perhaps the best benefit of the Assess step is that, if you plan well at the start, then you’ll know when you’ve reached the end. You will avoid doing “too much” or “too little” research, but just enough to satisfy each of your important audiences.
+
+## What do we need to know about our customers?
+
+### Three Lines of Defence:
+
+1. The first line of defense is the line of business. Also known as the front line, these customer-facing employees are best-equipped to get the information you need for your customer due diligence. Operations, risk, and control teams that support the business may also be referred to as the first line of defense.  
+
+2. The second line of defense is the compliance and internal control functions. That includes the chief money laundering reporting officer, or MLRO, in charge of managing and monitoring AML and CFT activities. Members of the second line of defense should not be incentivized to receive a direct share of business profits.  
+
+3. The third line of defense is internal audit. They perform an independent review of the controls applied by the first two lines of defense.
+
+### Responsibility of Each Line:
+
+- Front line implements policies
+
+- Compliance (directed by MLRO)
+  
+  - Develops policies
+  
+  - Escalated issues to the board
+  
+  - Reports suspicious activity
+
+- Internal autid evaluates controls
+
+The line of business is responsible for implementing and maintaining policies and procedures, as well as communicating these to all personnel. It must also establish processes for screening employees to ensure high ethical and professional standards and deliver appropriate training on AML policies and procedures based on roles and functions performed.
+
+The AML compliance function is the second line of defense. The AML officer is responsible for developing policies to ensure AML compliance and to enable the escalation of identified noncompliance or other issues to senior management and, where appropriate, the board. The AML officer should be the contact point for all AML issues for internal and external authorities and should have the responsibility for reporting suspicious transactions. The AML officer must have sufficient independence from the business lines to prevent conflicts of interest.
+
+The audit function should report to the audit committee of the board of directors, or equivalent, and independently evaluate the risk management and controls of the bank through periodic assessments. These include:
+
+- The adequacy of the bank’s controls to mitigate the identified risks
+
+- The effectiveness of the bank staff’s execution of the controls
+
+- The effectiveness of the compliance oversight and quality controls
+
+- The effectiveness of the training
+
+The audit function must have knowledgeable employees with sufficient audit expertise.
+
+### Intended Audiences
+
+What read the KYC customer profilt, and why?
+
+Customer profile is the end result --
+
+- Clearly identify the customer
+
+- Nature and intended purpose of the account
+
+- Source of funds
+
+- Other information for customer risk rating model
+
+The end result of your KYC research is to produce a customer profile that will clearly identify the customer, the nature and intended purpose of the account, the source of funds, and other customer information useful in your customer risk rating model. In the Assess step, you need to know who your intended audience is, and what they need to know. There are multiple audiences that you need to satisfy.
+
+### Know your audience
+
+- Regulators: Regulators will review KYC files to determine whether you are complying with your jurisdiction’s laws and regulations and whether you are collecting enough information to enable your organization to effectively detect and identify suspicious activity.
+
+- Other government officials: Other government officials may look at your work.
+
+- Law enforcement: Law enforcement might evaluate your work. When your organization files a suspicious activity report (SAR or STR), that often uses vital contextual information collected during KYC due diligence. Law enforcement has access to all of these reports from the various organizations and a single SAR may often provide the missing piece to an investigation.
+
+- Transaction montioring staff: Your organization’s transaction monitoring staff will rely on your work. So perhaps the most important purpose of KYC is to produce documentation that others within your organization can use throughout the lifecycle of the customer relationship.
+
+- Internal review: Finally, your customer files may be independently reviewed for quality by internal staff in your organization’s lines of business, dedicated compliance function, or audit function. They will confirm that you did enough research and that you followed appropriate policies and procedures.
+
+
+
+## What do we already know about the customer?
+
+## Customer Identification Process
+
+## Beneficial Ownership
+
+## Customer Due Diligence
+
+## Enhanced Due Diligence
+
+## What do we still need to know about the customer?
+
 # KYC Foundations - Explore
 
 # KYC Foundations - Organize

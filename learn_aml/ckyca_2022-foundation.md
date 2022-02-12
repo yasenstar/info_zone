@@ -940,11 +940,211 @@ The end result of your KYC research is to produce a customer profile that will c
 
 - Internal review: Finally, your customer files may be independently reviewed for quality by internal staff in your organization’s lines of business, dedicated compliance function, or audit function. They will confirm that you did enough research and that you followed appropriate policies and procedures.
 
-
-
 ## What do we already know about the customer?
 
+### Data Security and Privacy
+
+- Financial institutions have a duty of care
+
+- Share data only as "need to know"
+
+- Don't use data for a secondary purpose
+
+- Store or destroy data based on policy
+
+Financial institutions have a high duty of care, and often legal obligation, to ensure the security and privacy of data they hold about their customers. Data you hold about a customer should be shared only with others who need to know. It must be stored securely. In many jurisdictions, it is prohibited by law for data that was collected for one purpose to be used for another purpose, such as marketing. Once it has served its purpose, data must be securely destroyed. Many countries have rules and regulations about how long data should be retained. Your organization will have a policy on how long data should be stored and when data should be destroyed.
+
+### Data Protection Laws
+
+- Many countries have related laws
+
+- EU Genera Data Protection Regulatrion (GDPR)
+
+- Might require customer's consent
+
+- Might not allow cross-border transfer
+
+- Apply to physical and electronic data
+
+Many countries have specific national privacy or data security laws, including laws and regulations that apply to financial institutions. One of the strictest is the EU General Data Protection Regulation (GDPR) for how organizations protect EU citizens' personal data and privacy.  
+
+These laws place onerous requirements on companies that collect data. For example, they may require the consent of the subject individual to process their data. In some instances, data may not be transferred across national borders, which is very challenging for global financial services organizations. These laws also have strict requirements for notifying the authorities and the individuals affected if a data breach occurs.  
+
+The data that is collected is comprehensive and often highly purposeful. Care must be taken to ensure physical data is properly protected. For example, it should not be left on an employee’s desk overnight. When stored electronically, data must be entered on to your organization’s approved databases in accordance with policy. For example, some organizations prohibit the use of desk top folders. Most organizations also prohibit the use of USB sticks for storing data as these are easily lost. Data should not be retained indefinitely and must be destroyed in accordance with your organization’s destruction policy.
+
+### Customer Due Diligence (CDD) Categories
+
+CDD encompasses the entire lifecycle of due diligence:
+
+- Customer Identification (often CIP)
+
+- Simplified Due Diligence (often SDD)
+
+- Standard Due Diligence for most customers
+
+- Enhanced Due Diligence (often EDD)
+
+Customer due diligence, or CDD, encompasses the entire lifecycle of due diligence. The primary purpose of CDD is to learn more about the nature and intended purpose of the account relationship. CDD includes all types of due diligence, including ongoing monitoring.  
+
+The identification and verification of the customer and the beneficial owners is known in some organizations and regions as CIP, or customer identification process.  
+
+In some jurisdictions, such as the UK, simplified due diligence, or SDD, is a brief verification applied to certain eligible customers when the money laundering risk is considered low.  
+
+Next is standard due diligence. This is generally applied to low and medium risk customers.  
+
+Enhanced due diligence, known as EDD, is undertaken in greater detail and depth when compared to standard or simplified due diligence.
+
+### Performing Due Diligence
+
+The level depends on the risk:
+
+- First, identify customer (CIP)
+
+- Simplified due diligence if very low risk
+
+- Standard due diligence for most customers
+
+- EDD if higher risk or difficult to assess
+
+The extent of due diligence that is performed on customers should be dependent on the risk of money laundering or terrorist financing they pose. The level of due diligence and the processes you must follow will be set out in your organization's policies.  
+
+CIP is the first stage. Since criminals are often intelligent and understand the laws, they might provide expertly forged documents. It is important that the sources you use are reliable and independent. Once you have identified your customer, you can determine the level of due diligence you must undertake.  
+
+In some situations, if the risk for money laundering or terrorist funding is very low, a simplified due diligence process is enough to satisfy legal requirements. Some jurisdictions may not permit SDD and where permitted, there are restrictions on when SDD may be used.  
+
+Most commonly, standard due diligence is the level applied. It begins after CIP, and it involves conducting a detailed analysis and assessment of the new client from a financial crime risk perspective. These risks are categorized as low, medium, or high. Standard due diligence is typically conducted using public records, open internet sources, proprietary data, customer interviews, and other investigative processes.  
+
+In other cases, for example in the case of a politically exposed person or a company in a high-risk jurisdiction, enhanced due diligence will be required.
+
 ## Customer Identification Process
+
+### Customer Identification Process for a Natural Person
+
+- Name
+
+- Address
+
+- Data of Birth
+
+- Tax or National Identification Number
+
+- Requirements vary by jurisdiction
+
+### Identify a Natural Person to Manage Risk
+
+- Different Customers Pose Different Risks
+
+- Assess Risk Profile during CIP
+
+- Equally Effective when Online
+
+- Be Reasonably Confident
+
+Your organization’s customer identification process (sometimes called CIP) should reflect the different customer types and the different levels of risk they could pose to your organization. After you collect the basic required information, you should be able to make an initial assessment of the customer’s risk profile. For higher risk customers, your organization might require additional information such as a prior bank reference or source of wealth. Higher-risk relationships will also require greater scrutiny of documents. Keep in mind that some identification documents are more vulnerable to fraud than others.  
+
+When applicable, your organization should apply equally effective customer identification procedures for those who open accounts online as for face-to-face customers. Your organization should verify this information using reliable, independently sourced documents and information. You need to be as confident and accurate as is reasonably possible given the available resources.
+
+### Identify a Legal Person
+
+Legal person customers include limited liability companies, corporations, partnerships, and financial institutions.
+
+- Name of Legal Person
+
+- Address: Place of Incorporation, Place of Business
+
+- Government Identification Number
+
+The organization’s procedures will determine what to do when certain documentation is not available. This could ultimately include not onboarding the client if alternatives are not available.
+
+### Identify a Legal Personl to Manage Risk
+
+- Same underlying principles as for natural person identification
+
+- Collect additional information when needed
+
+- Verify the identity of any agents who open accounts
+
+It’s important to note that the underlying principles of customer identification for natural persons have equal application to customer identification for legal persons. In addition to the minimum requirements, you might need to collect additional documentation for higher risk customers. Examples include an original or certified copy of the Certificate of Incorporation and Memorandum, or Articles of Association. Make sure you know and follow the requirements for your jurisdiction and organization.  
+
+You will also need to know the nature and purpose of the business, and whether it is legitimate.  
+
+Additionally, your organization should take reasonable steps to verify the identity and reputation of any agent that opens an account on behalf of a corporate customer, unless that agent is an officer of the corporate customer.  
+
+As with natural person identification, your organization should verify this information using reliable, independently sourced documents and information. You need to be as confident and accurate as is reasonably possible given the resources you have available.
+
+### Documentary Verification: Primary and Secondary
+
+Verify Documentation:
+
+- Primary issued by 3rd parties
+
+- Secondary issued by less reliable 3rd parties
+
+- Jurisdiction and organization determine acceptable documents
+
+You can divide documentary verification into two categories, primary and secondary.  
+
+Primary identification documents are usually those issued by an independent third party, such as a government or official body. They usually contain a photograph of a person, such as a passport. For companies, there will be certified documents, such as those issued by an official registry.  
+
+Secondary forms of identification are less reliable than primary forms, but still are issued by independent third parties, such as a college, a utility company, or another financial institution.  
+
+Each jurisdiction decides which of these documents are acceptable. Your organization’s own policies and procedures will set out the documents it will accept.
+
+### Primary and Secondary ID
+
+- Primary forms are difficult to forge
+
+- Primary forms include databases
+
+- Secondary forms cross-verify primary and information provided by the customer
+
+ince primary identification documents issued by a government usually contain a photograph of the person, these documents are difficult to forge or replicate.  
+
+Common examples of primary identification include a driver’s license, a government identification card, and a passport.  
+
+Accept primary identification documents only if they are valid, that is unexpired, at the time of account opening. Government departments also maintain databases of registered companies, charities, and regulated institutions. Your organization will have a list of acceptable databases you can use.  
+
+Since each jurisdiction decides which of these government documents are acceptable, it is important for you to know your local regulations.  
+
+Secondary identification is often used to cross-verify the primary form of identification and to cross-verify information provided by the customer. For example, a utility bill can help prove a place of residence for an individual. Audited accounts are useful for determining sources of revenue for companies.  
+
+Because these secondary forms often represent very short time periods, your organization will have policies about how recent the documents must be.
+
+### Non-Documentary Verification: Primary and Secondary
+
+- Primary uses 3rd parties
+
+- Secondary is less reliable
+
+- Jurisdiction and organization determine acceptable sources
+
+Non-documentary verification is checking the information the customer provides against proprietary databases, public records, or credit reports.  
+
+Countries with well-developed frameworks often have online registries or official government registries that can be used to verify the existence of a natural or legal person, such as an electoral roll. These are considered primary sources of verification.  
+
+Secondary forms of non-documentary verification may be as simple as calling the telephone number a customer provides to make sure it is valid and the customer answers.  
+
+Each organization, based on its risk appetite, will set standards for the number and types of verification needed to open an account.
+
+### Non-Documentary Verification
+
+- Cross-verifies primary and secondary documents
+
+- Especially useful with legal persons
+
+- Jurisdiction and organization determine acceptable sources
+
+You can also use non-documentary verification to check the validity of primary and secondary documents you collect from the customer. These additional pieces of information help support your reasonable belief of the true identity of the customer.  
+
+For an individual customer, you might look at a credit report or search public records. In some cases, these are subscription services.  
+
+When confirming the identity of a legal person, you should use secondary non-documentary sources to cross-verify the primary documentation. For example, you might use the local company registry. Be careful to assess how each registry is maintained, and by whom. Just appearing on a list does not mean the company is legitimate. As these rules vary by jurisdiction, it is essential to consult your organization's policies and procedures.  
+
+If you have the registered address of a legal person, you might check that address for other entries. Multiple legal persons listed at the same address might be a warning sign, particularly if they have formation dates close to each other. Recent formation dates could indicate a shell company.  
+
+You need to weigh the reliability of each source of non-documentary verification you use. The availability and reliability of sources varies by jurisdiction. The location your customer is incorporated in might even determine the languages in which these sources are written.
+
+
 
 ## Beneficial Ownership
 

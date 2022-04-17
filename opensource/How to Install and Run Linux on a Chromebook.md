@@ -1,7 +1,5 @@
 # How to Install and Run Linux on a Chromebook
 
-
-
 Reference: https://www.lifewire.com/install-linux-on-chromebook-4125253
 
 Before installing Ubuntu on Chromebook, first need to enable Developer Model
@@ -20,4 +18,18 @@ Before installing Ubuntu on Chromebook, first need to enable Developer Model
 
 ## Install Ubuntu Using Crouton
 
+The main reasons to choose Crouton are it's simplicity, and it can run Chrome OS and Ubuntu side-by-side, eliminating the need to hard boot into one operating system at a time.
 
+To get started, open the Chrome browser, and follow these steps:
+
+1. Go to the [Crouton official Github repository](https://github.com/dnschneid/crouton).
+
+2. Click the goo.gl link, or direct go to https://goo.gl/fd3zc, located the **Chromium OS Universal Chroot Environment** header.
+
+3. A Crouton file downloads to your **Downloads** folder. Open the Chrome OS developer shell in a new browser tab by pressing **Ctrl+Alt+T**.
+
+4. Type **`shell`** and press **Enter** key, like `crosh > shell`
+
+5. At the prompt, enter **`sudo sh ~/Downloads/crouton -e -t xfce`** and presee the **Enter** key. On a Chromebook device with a touchscreen, use the following syntax instead: **`sudo sh ~/Downloads/crouton -e -t touch,xfce`**. (add notes here for special permission)
+
+6. 

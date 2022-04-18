@@ -81,3 +81,21 @@ To remove Linux from your Chromebook, follow this procedure:
 3. Confirm reactivating OS verification. Press the **Enter** key.
 
 4. A notification alerts you that OS verification is now on. Your Chromebook reboots and is restored to its original state. After the process completes, the Chrome OS welcome screen appears.
+
+## Troubleshoot: Noexec mount - Refusing to exec ERROR when loading Crouton from command line
+
+Thanks [chromebook - Noexec mount - Refusing to exec ERROR when loading Crouton from command line - Ask Ubuntu](https://askubuntu.com/questions/1356600/noexec-mount-refusing-to-exec-error-when-loading-crouton-from-command-line)
+
+According to the Chrome OS website shown on the same message it is stated that Google made the shell to enforce `noexec` mounts which seems to be prettymuch the whole drive. Except for `/usr/local`, which they left for development mode to remain exec.
+
+So...
+
+```
+sudo cp ~/Downloads/crouton /usr/local
+```
+
+and then run the script:
+
+```
+sudo sh /usr/local/crouton -t unity
+```

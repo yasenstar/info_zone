@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: MyFirstApp, Configuration: Debug x64 ------
+1>MyFirstApp.cpp
+1>MyFirstApp.vcxproj -> C:\Xiaoqi\repo\info_zone\learn_c\cpp\cpp_beginners\MyFirstApp\x64\Debug\MyFirstApp.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

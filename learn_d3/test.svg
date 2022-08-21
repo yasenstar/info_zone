@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'
+          'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg>
+    <defs>
+        <g id="doublecircle">
+            <circle cx="0" cy="0" r="3" fill="red" />
+            <circle cx="0" cy="0" r="5" fill="none" stroke="red" />
+        </g>
+    </defs>
+    <use x="10" y="20" href="#doublecircle" />
+</svg>

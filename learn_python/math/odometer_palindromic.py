@@ -31,5 +31,5 @@ for i in range(100000,999999):
                 i_6 = i // 100000
                 if (i_1 == i_6 and i_2 == i_5 and i_3 == i_4):
                     print("The answer is ", i-3)
-                    break
+                    # break
     next

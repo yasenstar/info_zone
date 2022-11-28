@@ -14,3 +14,7 @@ https://www.3dslash.net/
 
 https://www.freecadweb.org/
 
+## OpenSCAD
+
+https://openscad.org/
+

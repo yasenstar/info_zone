@@ -1,3 +1,7 @@
 .project
 /learn_java/JavaGUI/NumAddCalculator/target/
 *.exe
+
+# Office temp file
+~$*.xlsx
+~$*.pptx

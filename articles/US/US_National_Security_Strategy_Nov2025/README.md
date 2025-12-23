@@ -17,6 +17,7 @@
     - [Query any contents have certain keyword](#query-any-contents-have-certain-keyword)
   - [Add Chinese Translated Content](#add-chinese-translated-content)
     - [在中文语境下进行关键字查询](#在中文语境下进行关键字查询)
+  - [Other Resources about US National Security Strategy](#other-resources-about-us-national-security-strategy)
 
 ## Purpose
 
@@ -195,6 +196,11 @@ RETURN c,c1,n
 
 ![query-keyword-中国](img/query-keyword-中国.png)
 
+## Other Resources about US National Security Strategy
+
+- [Historical US National Security Strategy (from Historical Office of the US Secretary of War)](https://history.defense.gov/Historical-Sources/National-Security-Strategy/)
+- [US National Security Strategy Archive](https://nssarchive.us/)
+
 ---
 
-Last Updated at 12/22/2025, ©Xiaoqi Zhao, 2025, All Rights Reserved.
+Last Updated at 12/23/2025, ©Xiaoqi Zhao, 2025, All Rights Reserved.

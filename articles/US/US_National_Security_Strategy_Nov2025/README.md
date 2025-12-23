@@ -101,8 +101,6 @@ RETURN c2, c3, c
 
 ![create-l3](img/create-l3.png)
 
-![create-l2](img/create-l2.png)
-
 ### Create Level 4 `Content` and Link to Level 3
 
 ```cypher

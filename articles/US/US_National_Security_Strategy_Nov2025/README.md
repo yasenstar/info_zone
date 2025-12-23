@@ -14,6 +14,8 @@
   - [Query from the Graph](#query-from-the-graph)
     - [Load Complete Article](#load-complete-article)
     - [Query any contents have certain keyword](#query-any-contents-have-certain-keyword)
+  - [Add Chinese Translated Content](#add-chinese-translated-content)
+    - [在中文语境下进行关键字查询](#在中文语境下进行关键字查询)
 
 ## Purpose
 
@@ -149,6 +151,34 @@ RETURN c,c1,n
 ```
 
 ![query-keyword-technology](img/query-keyword-technology.png)
+
+## Add Chinese Translated Content
+
+Following query to load the new CSV with Chinese translated contents in another 6 columns, run it 6 times while changing the # of Level:
+
+```cypher
+LOAD CSV WITH HEADERS FROM "file:///D://GitHub//info_zone//articles//US//US_National_Security_Strategy_Nov2025//US_National_Security_Strategy_bilingual.csv" as row
+MATCH (a:Content)
+WHERE a.title = row.Level6
+MERGE (c:Content {title: row.`Level6`})
+SET c.titleChinese = row.Level6CN
+RETURN c
+```
+
+![add-bilingual](img/add-bilingual.png)
+
+### 在中文语境下进行关键字查询
+
+```cypher
+MATCH (n:Content)
+MATCH (r:Regulation {title:
+"National Security Strategy of the United States of America, November 2025"})-[i:CONTAINS*]->(c:Content)
+MATCH (n)-[c1:CONTAINS*]->(c)
+WHERE c.titleChinese CONTAINS "中国"
+RETURN c,c1,n
+```
+
+![query-keyword-中国](img/query-keyword-中国.png)
 
 ---
 

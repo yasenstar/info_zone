@@ -5,3 +5,4 @@
 | Superscript Number 1 | ¹ | Alt + 0185 |
 | Superscript Number 2 | ² | Alt + 0178 |
 | Superscript Number 3 | ³ | Alt + 0179 |
+| Copyright | © | Alt + 0169 |

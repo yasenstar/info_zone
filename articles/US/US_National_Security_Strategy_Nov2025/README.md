@@ -2,6 +2,7 @@
 
 - [Build "US NSS - Nov 2025" into Graph](#build-us-nss---nov-2025-into-graph)
   - [Purpose](#purpose)
+  - [Treat this as one good "strategy" document reference](#treat-this-as-one-good-strategy-document-reference)
   - [Preparation](#preparation)
   - [Load into Graph](#load-into-graph)
     - [Create New `Regulation` Node](#create-new-regulation-node)
@@ -26,6 +27,22 @@ The source for read the issued article is here: https://www.whitehouse.gov/issue
 After loading into graph, there will be possibility to retrieve some interested keywords and create certain relevant categories for further analysis.
 
 And, the node `Regulation` is used for keep adding more variable regulations & laws so that later the cross benchmarking analysis can be expected.
+
+## Treat this as one good "strategy" document reference
+
+Here are the structure in the generic manner:
+
+1. Introduction - What is Our Strategy?
+   1. How Our Old "Strategy" Went Astray?
+   2. The Necessary, Welcome Correction
+2. What Should We Want?
+   1. What Do We Want Overall?
+   2. What Do We Want In and From the EcoSystem?
+3. What are Our Available Means to Get What We Want?
+4. The Strategy Itself
+   1. Principles
+   2. Priorities
+   3. Per Segement Breakdown
 
 ## Preparation
 
